@@ -1,0 +1,1099 @@
+{
+  "document": {
+    "source_file": "Harsh_Shah_resume.pdf.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 27.0,
+      "top": 41.19,
+      "right": 26.53,
+      "bottom": 20.31
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Harsh Devanshu Shah ",
+          "font": "Helvetica-Bold",
+          "size_pt": 15.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "   617-602-8967 | shah.03harsh@gmail.com | LinkedIn - Harsh Shah ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Experienced software engineer with expertise in Backend Development, Cloud Computing, Data Engineering, and Software Testing expertise. My ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "proficiency includes Java (Spring boot), Python, SQL, and Full Stack Web Technologies. Command in devising and incorporating RESTful APIs on the ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "AWS cloud platform using tools including AWS CloudFormation, Terraform, and Git with the aim to deliver impactful solutions.  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "EDUCATION ",
+          "font": "Helvetica-Bold",
+          "size_pt": 11.04,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Master of Science in Computer Science Engineering. ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "   Jan 2022 – Dec 2023 ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Northeastern University |Boston, MA                                                                                                                                                                     CGPA – 3.72/4.0 ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Relevant Courses - Programing Structure and Algorithm, Application Engineering and Development, Web Design and User Experience Engineering ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Networking Structures and Cloud Computing, Design Patterns ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Bachelor of Engineering in Computer Science                                                                                                                                                     Jun 2016 – Aug 2020 ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Mumbai University                                                                                                                                                                                                     CGPA – 7.5/10.0 ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b8",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "SKILLS & CERTIFICATIONS ",
+          "font": "Helvetica-Bold",
+          "size_pt": 11.04,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Programming Languages:  ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Java, Python, C, Shell Scripting, HCL, Bash Scripting  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Web Technologies: ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "JavaScript, NodeJS, Angular, ReactJS, HTML5, CSS, SCSS ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Databases: ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "MySQL, DynamoDB, MongoDB, PostgreSQL, Oracle, Redis ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "ETL and Tools:                      ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Terraform,",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "AWS CloudFormation, Jira, Figma, Git, REST, SOAP, Spring MVC, Maven, Apache Tomcat ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Concepts:                              ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Object Oriented Programming, Data Structure and Algorithms, Agile, Cloud DevOps, Scrum, QA ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Certifications: ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Microsoft Azure Fundamentals - Microsoft, AWS and GCP Fundamentals - Coursera, Google Kubernetes Engine -Coursera ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "PROFESSIONAL EXPERIENCE ",
+          "font": "Helvetica-Bold",
+          "size_pt": 11.04,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Cloud Software Engineer, New York Life Insurance ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "    Jan 2023 – Aug 2023 ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Implemented a Java Spring Boot based API-driven application used by 30k+ active users simplifying insurance tracking and retirement planning  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Integrated application with the Salesforce REST APIs for real-time data access and supported 10M+ API calls per day ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Improved the application's response time by 25% by performing caching utilizing PostgreSQL ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Integrated PEGA for insurance recommendations, utilized NYLIS for cost PDFs, VPMS for monthly costs, and AWS CloudWatch for logging ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b21",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Supervised Sprint backlog delivery using GitHub-based CI/CD pipelines by developing reusable Test Packages and Test Scripts ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Collaborated with cross-functional teams for pair programs, formulating, and executing significant functionality on time ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Software Engineer, LTIMindtree ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Aug 2020 – Dec 2021",
+          "font": "Helvetica-Bold",
+          "size_pt": 8.77,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Organized and studied client-required migration, moving an old, out-of-date website to a new, MEAN Stack-based platform ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Collaborated with the development team to identify and resolve issues, resulting in an 80% improvement in website accessibility ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Constructed 200+ test cases, significantly boosting testing efficiency by 30% using JIRA and test-driven development ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Managed and assisted a QA Team of 3 members in creating a master plan for the testing process ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b28",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Software Engineer, Bhabha Atomic Research Centre (BARC) ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Jun 2019 – Apr 2020",
+          "font": "Helvetica-Bold",
+          "size_pt": 8.77,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Built and implemented a MySQL database to store and manage user information, hand image data, and verification results, enabling efficient ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "retrieval and management of large datasets for training and validation purposes ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Engineered a 94% accurate hand image-based biometric verification Machine Learning model using Python and TensorFlow ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Applied Image preprocessing techniques such as normalization, resizing, and cropping to improve the performance  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "PROJECTS ",
+          "font": "Helvetica-Bold",
+          "size_pt": 11.04,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b33",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Networking Structures and Cloud Computing – NodeJS, MySQL, AWS, Terraform                                                                                                          Dec 2022 ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Built a custom AMI for a web application using Packer, with all necessary dependencies and systemd service file, resulting in 99% automated ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "startup of EC2 instances and saving 90% of manual work with user-data scripts ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Deployed production-ready infrastructure using CloudFormation, including auto-scaling groups, load balancers, RDS database instances, and ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "CloudWatch alarms across multiple availability zones, succeeding with 99.99% uptime and seamless horizontal scaling during peak traffic ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Established GitHub Actions to trigger merge requests and motorized workflows with checks of the Unit test and Edge cases ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b37",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Constructed shell scripts to automate processes in Packer, GitHub Actions, and user-data scripts for EC2 instances ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b38",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Insurance Plans Service – NodeJS, Redis, JSON, Postman                                                                                                                                                                Aug 2022  ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b39",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Created Big Data leveraged case app enabling CRUD, cascaded delete, and conditional patch for Insurance Plans  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b40",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Boosted security and user privacy by enforcing OAuth 2.0 & JWT authentication, reducing login attempts by 40%  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b41",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Enhanced system resilience to high traffic and massive data volumes operating Redis database, resulting in a 20% improvement in app uptime ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b42",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "LEADERSHIP EXPERIENCE ",
+          "font": "Helvetica-Bold",
+          "size_pt": 11.04,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b43",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Teaching Assistant, Northeastern University ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "    Mar 2022 – Jun 2022 ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b44",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Conducted weekly lab sessions for ~90 students and taught PL/SQL, Oracle DBMS, and Data Structures concepts ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b45",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Mentored 40+ students on Course projects acquiring advanced Java Programming and SQL skills  ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b46",
+      "type": "split_row",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Jain Alert Charitable Inc                                                                                                                                                                                           Present ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b47",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Founder leader initiating and grooming Jain scholars for spreading the core value of Non-violence and inclusiveness in the country ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b48",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "• ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Community leader for managing Temple Facilities and supporting Jain Saints with research on the ancient text ",
+          "font": "Helvetica",
+          "size_pt": 9.0,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "id": "46446934-36b1-433e-a32b-58f11f43ff28"
+}

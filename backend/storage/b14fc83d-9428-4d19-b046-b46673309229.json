@@ -1,0 +1,28 @@
+{
+  "document": {
+    "source_file": "Sai_Kumar_Kongari_Resume_generated222.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward"
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "page": 0,
+      "runs": [
+        {
+          "text": "TEST NAME",
+          "font": "Times-Bold",
+          "size_pt": 18,
+          "color_hex": "#1F3864",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "id": "b14fc83d-9428-4d19-b046-b46673309229"
+}

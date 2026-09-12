@@ -1,0 +1,115 @@
+{
+  "document": {
+    "source_file": "resume-smoke.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 72.0,
+      "top": 53.21,
+      "right": 22.0,
+      "bottom": 18.0
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Jane Doe",
+          "font": "Times-Bold",
+          "size_pt": 18,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "divider",
+      "width_pt": 1,
+      "color_hex": "#1F3863"
+    },
+    {
+      "id": "b2",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Built an API in Python and shipped it. Extra words that wrap.",
+          "font": "Times-Roman",
+          "size_pt": 11,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "raw_elements": [
+    {
+      "page": 0,
+      "block": 0,
+      "line": 0,
+      "span": 0,
+      "text": "Jane Doe",
+      "font": "Times-Bold",
+      "source_font": "Times-Bold",
+      "size_pt": 18.0,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        72.0,
+        53.21,
+        142.49,
+        78.14
+      ],
+      "origin": [
+        72.0,
+        72.0
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 0,
+      "text": "Built an API in Python and shipped it.",
+      "font": "Times-Roman",
+      "source_font": "Times-Roman",
+      "size_pt": 11.0,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        72.0,
+        100.42,
+        240.07,
+        115.09
+      ],
+      "origin": [
+        72.0,
+        112.0
+      ]
+    }
+  ],
+  "layout": {
+    "divider_lines": [
+      {
+        "page": 0,
+        "x0": 72.0,
+        "y0": 82.0,
+        "x1": 540.0,
+        "y1": 82.0,
+        "width_pt": 1.0,
+        "color_hex": "#1F3863"
+      }
+    ]
+  },
+  "id": "dc552934-7509-415d-a855-4797e8c7f83d"
+}

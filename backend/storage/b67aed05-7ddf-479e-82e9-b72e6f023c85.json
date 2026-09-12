@@ -1,0 +1,900 @@
+{
+  "document": {
+    "source_file": "Resume_Shrey_Jain.pdf.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 48.96,
+      "top": 12.23,
+      "right": 46.43,
+      "bottom": 14.59
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Shrey Jain ",
+          "font": "Times-Bold",
+          "size_pt": 18.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "(518) 308-2067 | New York | ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "jains6@rpi.edu",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " | ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "linkedin.com/in/shreyjain3245",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " | ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "github.com/shreyjain3245",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "EDUCATION ",
+          "font": "Times-Bold",
+          "size_pt": 12,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "type": "divider",
+      "width_pt": 0.5,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b4",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": " Rensselaer Polytechnic Institute ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "New York, USA   Master of Science in Information Technology, GPA 4/4 Aug ‘22 - Dec ‘23   Teaching Assistant for Computer Organization Course (C, MIPS, Regex, Shell Script) ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": " Shri GS Institute of Technology and Science ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Indore, India   Bachelor of Engineering in Computer Science, GPA 3.7/4 Aug ‘15 - May ‘19 ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "RELEVANT COURSEWORK ",
+          "font": "Times-Bold",
+          "size_pt": 12,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "type": "divider",
+      "width_pt": 0.5,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b8",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "DataStructures, Algorithms, Software Engineering, Database Management Systems, Object Oriented Programming, IT Master’s Capstone, Operating Systems, Business Issues for Engineers, Big Data Policy, Computer Organization, Networks",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "WORK EXPERIENCE ",
+          "font": "Times-Bold",
+          "size_pt": 12,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "type": "divider",
+      "width_pt": 0.5,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b11",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": " International Business Machines (IBM) ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "New York, USA   Software Development Extern May ‘23 - Aug ‘23   Top Skills: Python, Flask, React, REST APIs, MongoDB  ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Designed a responsive React-based UI for IBM researchers to conduct Red Teaming exercises with machine learning models, ensuring an intuitive input prompt and response evaluation experience ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Engineered Python Flask APIs, reducing data retrieval time by 25% and facilitating connectivity with 20+ models ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Integrated IBM Cloud’s MongoDB for enhanced data handling, performance, and seamless UI-to-model interaction. ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Established application infrastructure using Docker and Kubernetes for scalability and reliability ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": " Goldman Sachs ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Karnataka, India   Senior Software Engineer (Associate) May ‘19 - Jun ‘22   Top Skills: Java, Spark, Spring Boot, Hive, SQL  ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Engineered a cost allocation system for 36000+ departments that simplified, standardized, and increased the transparency of cost flow ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Implemented micro-service architecture with 100+ REST APIs using Spring boot and Hibernate ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Achieved ~50% performance improvement and substantial simplification in the newly built financial application ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Developed efficient frameworks that reduced repetitive code and optimized processes for handling large datasets (~10B+ records) using Java, Spark, Hadoop, and Hive ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b21",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Showcased framework’s accomplishments at India Engineering Conference, earning recognition for developing flexible and robust frameworks ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Enabled real-time expense processing and event-driven process orchestration using Kafka and Web Sockets ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Empowered business leaders to visualize and analyze intricate expense graphs, facilitating informed decision-making based on clear insights ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "TECHNICAL STRENGTH ",
+          "font": "Times-Bold",
+          "size_pt": 12,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "type": "divider",
+      "width_pt": 0.5,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b26",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Programming",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": Java, Python, C, C++, R, MIPS Assembly, Verilog",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Web Development",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": HTML5, CSS, JavaScript, AngularJS, ReactJS, NodeJS, REST API, Web Sockets, XML, JSON",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b28",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Databases",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": SQL, MongoDB, Apache Hadoop, Hive, MySQL, PostgreSQL, NoSQL",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Tools and Technologies",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ":  Spring boot, Hibernate, Kafka, Spark, Flask, Mockito, AWS, Maven, Gradle, Tomcat",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Additional Practices",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ":  Agile, Scrum, Jira, SDLC, Design Patterns, Git, Gitlab, SVN, CI/CD, JUnit, Jenkins, Multithreading",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "PROJECTS ",
+          "font": "Times-Bold",
+          "size_pt": 12,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "type": "divider",
+      "width_pt": 0.5,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b33",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Common Case Solutions, United Airlines ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "May ‘23 ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Led development of React-based dashboard empowering United Airlines' ground staff to conduct validations, communicate through APIs, and expedite issue resolution, boosting operational efficiency ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Executed a cost-benefit analysis that identified ~$300k in savings by eradicating delays and reducing email dependencies, demonstrating a knack for fiscal responsibility ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Elevated ground staff productivity by replacing manual processes with an intuitive dashboard, garnering high user satisfaction, and streamlining daily operations ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b37",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Anomaly Based Intrusion Detection System ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Apr ‘23 ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b38",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Performed detailed study on the NSL-KDD dataset used for intrusion detection after extracting relevant records ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b39",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Evaluated performance of 4+ ML classifiers and demonstrated that Random Forest outperformed other models ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b40",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ACHIEVEMENTS ",
+          "font": "Times-Bold",
+          "size_pt": 12,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b41",
+      "type": "divider",
+      "width_pt": 0.5,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b42",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Spearheaded a charity event that raised over $10k for underprivileged children in the community Jan ‘23",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b43",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "● ",
+          "font": "Helvetica",
+          "size_pt": 8.51,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Engaged in community projects as a volunteer for Goldman Sachs’ Community Teamwork program  Jun ‘22",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "id": "b67aed05-7ddf-479e-82e9-b72e6f023c85"
+}

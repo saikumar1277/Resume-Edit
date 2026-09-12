@@ -1,0 +1,738 @@
+{
+  "document": {
+    "source_file": "Madhu_Resume.pdf.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 28.8,
+      "top": 13.75,
+      "right": 29.48,
+      "bottom": 16.86
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "MadhuShreepathihalliShivakumar",
+          "font": "Times-Roman",
+          "size_pt": 24.79,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Ó+1-6024050143 Rmadhu.ss96@gmail.com °MadhuSShivakumar",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b3",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "BreifSummary",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810"
+    },
+    {
+      "id": "b5",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "I’manexperiencedsoftwaredeveloperwithoverthreeyearsofexpertiseintheSoftwareDevelopmentLifeCycle,I holdaBachelor’sdegreeinComputerScienceandaMaster’sdegreeinRoboticswithaprimaryfocusonArtificial Intelligence.MyproficiencyinPythonspansoversixyears,andIbringstrongskillsinsystemdesign,adherenceto codingstandards,andeffectivesourcecontrolmanagement.Iamenthusiasticaboutmakingmeaningful contributionstodriveinnovationandachieveexcellence.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "PROFESSIONALEXPERIENCE",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810"
+    },
+    {
+      "id": "b8",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Acorns",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "|",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "DataEngineer 052022–current",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Constructingandmanagingintricatedatapipelinesandtoolstoensureseamlessflowandintegrationof criticaldatawithintheorganization.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "DatabricksCostSavings",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Achievedcloseto$400kannualcostsavingsthroughcostloganalysisand identifyingopportunitiestosaveonjobcompute.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "ImmutaToolImplementation",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "ImplementedImmutatoolforuserself-serviceaccess,reducingdaily requestsby40%.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "LearnhubOptimization",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Optimizeduserrecommendationsandreducedjobruntimefrom3hoursto15 minutes,saving$110kannually.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Hackathon",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "workedinateamof4andwewonthe2023onsitehackathonbydevelopingaSlackbotwithin8 hoursthatleveragedthesynergyofChatGPT,RESTAPIs,andFlasktoprovideinvaluablesupportto cross-functionalteamswiththeirdataengineeringinquiries.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "HewlettPackardEnterprise",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "|",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Systems/SoftwareEngineer 012019–122020",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "IntegralmemberoftheArubateam,activelycontributingtotheadvancementofnetworkingprotocols encompassingOutboundRouteFiltering(ORF)primarilyinC,coupledwiththeformulationof",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "comprehensiveend-to-endcommand-lineinterfacesforseamlessprotocolmanagement.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Designedanddevelopedapowerfulutility,utilizingtheGNUProjectDebugger,thatenabledthevisualization andanalysisofcomplexdatastructureswithincoredumps,resultingina50%reductionindebuggingtime anda25%increaseinoverallproductivity.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Designedanddevelopedasophisticatedmonitoringtoolthatautomateddailyhealthreports,resultingina 20%improvementinbuildqualityassessment,a30%reductionincriticalbuilderrors,andanaveragetime savingsof2hoursperday.Thiscontributedtoa15%reductioninpost-releasebug-fixingcosts.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "PROJECTS",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810"
+    },
+    {
+      "id": "b21",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "GoalKeeperRobot:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Ledateamof5toconceptualizeanddevelopanautonomousrobotcapableoftracking theballandautonomouslydefendingagoalwithcloseto80%accuracy.achievedthroughablendofArduino andRaspberryPitechnologies.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "SnakeRobot:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "AppliedModel-BasedReinforcementLearning(MB-RL)tooptimizegaitparametersofa sidewindingsnakerobot,showcasingacombinationofroboticsknowledgeandadvancedmachinelearning techniques.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "GymAssistant",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Ledateamof4tocreatea3Dhumanreconstructionsystemthroughposeestimationin Python,couplingitwithanAI-poweredgymtrainercapableofdeliveringcustomizedworkoutinstructions basedonexercise-specificheuristics.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "PracticalSearchAlgorithms:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "ImplementeduninformedsearchalgorithmsBFS,DFS,UCSandInformed searchAlgorithmssuchasA*inaPacmanenvironmenttofindtheoptimalpaths.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "StockTrendPredictor:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Ledateamof5toImplementaNaiveBayesModeltopredictstocktrendsbased ontheweatherdata,wetrainedthemodelover10yearsofdataandtestediton1-yeardataandgotover60% accuracy.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "TECHNICALSKILLS",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810"
+    },
+    {
+      "id": "b28",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Languages:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Python,C,SQL",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "DeveloperTools:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "VSCode,lucidChart,Diatool,ArduinoIDE,Databricks,AWS,SPARK,pandas",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Technologies/Frameworks:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Linux,GitHub,Gerrit,Raspbian,confluence,jira",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "EDUCATION",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810"
+    },
+    {
+      "id": "b33",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ArizonaStateUniversity",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "MastersinComputerScience ",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Tempe,Arizona",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "PESUniversity",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "B.TechinComputerScienceandEngineering ",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Bangalore,India",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "id": "5678f1a9-6e99-4e37-a624-8c0f8b54ea7f"
+}

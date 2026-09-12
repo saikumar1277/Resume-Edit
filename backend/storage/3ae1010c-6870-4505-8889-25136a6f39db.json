@@ -1,0 +1,1040 @@
+{
+  "document": {
+    "source_file": "Resume_Pratik_Mali.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 595.2,
+      "height": 841.92
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 21.6,
+      "top": 9.96,
+      "right": 20.04,
+      "bottom": 9.02
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Pratik Mali ",
+          "font": "Helvetica-Bold",
+          "size_pt": 13.92,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "San Jose, CA | ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "malipratik09@gmail.com",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " | (408) 690-5788 | ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "linkedin.com/in/pratikmali ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "| ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "github.com/impratik7",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "EDUCATION ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "M.S., Software Engineering ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(GPA: 3.28) August 2022 - May 2024 San Jose State University, San Jose, CA ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Coursework: Machine Learning",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": ", ",
+          "font": "Helvetica",
+          "size_pt": 11.04,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Data mining, Big Data Analytics, Enterprise Software Platforms,Software Systems Engineering ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "B.S., Computer Engineering ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(GPA: 3.76) August 2016 - October2020 Bharati Vidyapeeth University, India ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Coursework: Operating System, Data Structure and Algorithm, DBMS, Data Mining, Distributed System, Artificial Intelligence ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "SKILLS ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b8",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Programming languages/ Web Technologies: ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Python, Java, C, C++, R, SQL, HTML, CSS, Flask, Tomcat, React, Javascript, REST, gRPC ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ML and Data science",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": Pandas, Numpy, Spark, Tensorflow, Keras, OpenCV, NLP, LLM, Seaborn, Scikit-learn, Matplotlib, PyTorch ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Cloud services",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": Azure (ADLS, Data Factory, Databricks, Key vault, Logic Apps), AWS, GCP ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Databases",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": MongoDB, Oracle RDBMS, MySQL, PostgreSQL, Azure CosmosDB, AWS DynamoDB, AWS RDS, NoSQL ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Tools",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ": Power BI, Docker, Hadoop, Kubernetes, Git, Databricks, BigQuery, Google Ads Data Hub, Meta Graph API, MATLAB, WinSCP ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "WORK EXPERIENCE ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Software Engineer, Persistent Systems",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ", India  November 2020 - July 2022 ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Spearheaded the development and launch of a new service in 7 countries, which increased brand campaign performance by ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "25%",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "across TV, Google and Meta, and provide key insights and analytics leading to better business decisions ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Anchored conversion of 3 data models into efficient ETL Apache spark transformations achieving ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "30%",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " performance gain ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Built scalable cloud infrastructure by leveraging Azure ADF, Databricks, ADLS, PBI and other web services to extract data from ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• various sources (SFTP, Google’s Ads data hub and Meta’s Graph API), perform transformations and visualize on BI tool ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Developed a configurable Python library to read and handle different file formats reducing code changes by ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "60%",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b21",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Automated end-to-end ETL through Data factory, serverless logic apps and web apps reducing manual intervention by ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "80%",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " and ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• increased performance of existing modules by ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "10-25%",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " by applying optimization techniques and refactoring ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "type": "split_row",
+      "runs": [
+        {
+          "text": "Machine Learning Intern, Tech Mahindra",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ", India                        June 2019 - August 2019 ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Designed and realized a computer vision-based prototype (",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "repo",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": ") for simple and intuitive hand gestures ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Developed an Android application (music player) that leveraged YOLOv3 (OSS) object detection algorithm ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Configured and trained neural network using yolo-darknet framework to get an accuracy of ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "80%",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " for each gesture ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Tech stack: Python, Flask, Google Colab, TensorFlow, YOLOv3, JSON, Neural networks, Android ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b28",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "PROJECTS ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Airbnb revenue predictor ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "repo",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": ", ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "hosted link",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " (Python, Docker, React, AWS, Regression, OpenStreet API) ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Created an interactive map-based dashboard for Airbnb investors to predict how profitable a future Airbnb listing might be based on previous listing’s annual revenue, average daily rate, occupancy rates throughout the year, and seasonality ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Predict prices for customers based on various parameters like location, bedroom, bathroom, ratings resulting in F1 score of 0.8 ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ChartGPT AI based UML tool ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "repo",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(OpenAI GPT API, LLM, NLP, UML, Python, JavaScript, CSS) ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b33",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Developed an AI based tool can generate UML diagrams based on textual descriptions or natural language queries. ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Takes input, calls LLM to fetch code in mermaid format and rendered diagrams using Mermaid API.",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Integrated and utilized OpeanAI’s GPT 3.5 and Mermaid API. Supports UML ER, class, sequence, state, gantt diagrams ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Twitter sentiment analysis",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "repo",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(Matplotlib, NumPy, Tweepy, textblob lib, Jupytr/colab notebook) ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b37",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Charted and implemented a real-time sentiment analysis system for Twitter using machine learning and the Twitter API",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b38",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Trained and evaluated multiple ML models to classify tweets as positive, negative, or neutral, achieving an overall F1 score of 0.87",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b39",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "• Utilized natural language processing techniques to preprocess 1000 tweet text and visualize sentiment analysis results in real time",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b40",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Airport Management System ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "repo",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(Python, Django, ReactJS, AWS RDS, ELB, EC2, REST API, Figma) ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b41",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•  Developed a scalable airport management system using Django as backend, ReactJS as frontend and implemented 19 APIs on AWS ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b42",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•  Provided key features like flight tracking for customers, gate and baggage carousel assignment for airport and airline employees ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b43",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "NASA Exoplanet prediction ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "repo",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#0563C1",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(Python, Pandas, Numpy, Sklearn, Pandas_profiling, XGBClassifier, graphviz) ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b44",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•  Extracted NASA dataset and predict whether given planet is candidate for an exoplanet ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b45",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•  Benchmarked various classification algorithms and finally used XGBClassifier with F1 score of 0.96 ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b46",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "CERTIFICATIONS ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b47",
+      "type": "split_row",
+      "runs": [
+        {
+          "text": "Microsoft Certified: Azure Developer Associate (AZ-204)                  April 2022 Microsoft Certified: Azure Data Fundamentals (DP-900)                             January 2022 Microsoft Certified: Azure Fundamentals (AZ-900)                        November 2021 Cisco Certified Network Associate (CCNA)                            October 2018 ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b48",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ACTIVITIES ",
+          "font": "Helvetica-Bold",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b49",
+      "type": "split_row",
+      "runs": [
+        {
+          "text": "LA Hacks, University of California, Los Angeles (UCLA)                   April 2022 Lead, Technical team, Mozilla Campus Club                                                  2018 - 2020 Technical member, Network Security Group                                 2016 - 2017 ",
+          "font": "Helvetica",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "id": "3ae1010c-6870-4505-8889-25136a6f39db"
+}

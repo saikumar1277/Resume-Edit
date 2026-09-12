@@ -1,0 +1,4961 @@
+{
+  "document": {
+    "source_file": "Madhu_Resume.pdf.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 28.8,
+      "top": 13.75,
+      "right": 29.48,
+      "bottom": 16.86
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Madhu",
+          "font": "Times-Roman",
+          "size_pt": 24.79,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Shreepathihalli",
+          "font": "Times-Roman",
+          "size_pt": 24.79,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Shivakumar",
+          "font": "Times-Roman",
+          "size_pt": 24.79,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Ó",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "+1-6024050143 ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "R",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "madhu.ss96@gmail.com ",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "°",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Madhu",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "S",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Shivakumar",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#000000",
+      "id": "b2"
+    },
+    {
+      "id": "b3",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Breif",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Summary",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810",
+      "id": "b4"
+    },
+    {
+      "id": "b5",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "I’m",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "an",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "experienced",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "software",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "developer",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "with",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "over",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "three",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "years",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "expertise",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Software",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Development",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Life",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Cycle,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "I ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "hold",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bachelor’s",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "degree",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Computer",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Science",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Master’s",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "degree",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Robotics",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "with",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "primary",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "focus",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "on",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Artificial ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Intelligence.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "My",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "proficiency",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Python",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "spans",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "over",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "six",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "years,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "I",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "bring",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "strong",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "skills",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "system",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "design,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "adherence",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "coding",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "standards,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "effective",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "source",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "control",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "management.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "I",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "am",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "enthusiastic",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "about",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "making",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "meaningful ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "contributions",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "drive",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "innovation",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "achieve",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "excellence.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "PROFESSIONAL",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "EXPERIENCE",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810",
+      "id": "b7"
+    },
+    {
+      "id": "b8",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Acorns",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "|",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Data",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Engineer ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "05",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "2022",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "–",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "current",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Constructing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "managing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "intricate",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "pipelines",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "tools",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "ensure",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "seamless",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "flow",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "integration",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "critical",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "within",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "organization.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Databricks",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Cost",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Savings",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Achieved",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "close",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "$",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "400k",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "annual",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "cost",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "savings",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "through",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "cost",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "log",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "analysis",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "identifying",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "opportunities",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "save",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "on",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "job",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "compute.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Immuta",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Tool",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Implementation",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Implemented",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Immuta",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "tool",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "for",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "user",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "self-service",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "access,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reducing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "daily ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "requests",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "by",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "40%.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Learnhub",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Optimization",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Optimized",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "user",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "recommendations",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reduced",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "job",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "runtime",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "from",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "3",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "hours",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "15 ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "minutes,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "saving",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "$",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "110k",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "annually.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Hackathon",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "worked",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "team",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "4",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "we",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "won",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "2023",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "onsite",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "hackathon",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "by",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "developing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Slack",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "bot",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "within",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "8 ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "hours",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "that",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "leveraged",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "synergy",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "ChatGPT,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "REST",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "APIs,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Flask",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "provide",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "invaluable",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "support",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "cross-functional",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "teams",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "with",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "their",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "engineering",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "inquiries.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Hewlett",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Packard",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Enterprise",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "|",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Systems/Software",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Engineer ",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "01",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "2019",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "–",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "12",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "2020",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Integral",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "member",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Aruba",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "team,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "actively",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "contributing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "advancement",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "networking",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "protocols ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "encompassing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Outbound",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Route",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Filtering",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(ORF)",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "primarily",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "C,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "coupled",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "with",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "formulation",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "comprehensive",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "end-to-end",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "command-line",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "interfaces",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "for",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "seamless",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "protocol",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "management.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Designed",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "developed",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "powerful",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "utility,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "utilizing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "GNU",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Project",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Debugger,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "that",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "enabled",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "visualization ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "analysis",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "complex",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "structures",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "within",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "core",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "dumps,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "resulting",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "50%",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reduction",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "debugging",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "time ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "25%",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "increase",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "overall",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "productivity.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Designed",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "developed",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "sophisticated",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "monitoring",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "tool",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "that",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "automated",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "daily",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "health",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reports,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "resulting",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "20%",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "improvement",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "build",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "quality",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "assessment,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "30%",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reduction",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "critical",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "build",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "errors,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "an",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "average",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "time ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "savings",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "hours",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "per",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "day.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "This",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "contributed",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "15%",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reduction",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "post-release",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "bug-fixing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "costs.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "PROJECTS",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810",
+      "id": "b20"
+    },
+    {
+      "id": "b21",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Goal",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Keeper",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Robot:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Led",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "team",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "5",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "conceptualize",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "develop",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "an",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "autonomous",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "robot",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "capable",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "tracking ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "ball",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "autonomously",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "defending",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "goal",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "with",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "close",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "80%",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "accuracy.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "achieved",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "through",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "blend",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Arduino ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Raspberry",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Pi",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "technologies.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Snake",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Robot:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Applied",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Model-Based",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Reinforcement",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Learning",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(MB-RL)",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "optimize",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "gait",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "parameters",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "sidewinding",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "snake",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "robot,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "showcasing",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "combination",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "robotics",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "knowledge",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "advanced",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "machine",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "learning ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "techniques.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Gym",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Assistant",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Led",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "team",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "4",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "create",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "3D",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "human",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "reconstruction",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "system",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "through",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "pose",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "estimation",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Python,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "coupling",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "it",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "with",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "an",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "AI-powered",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "gym",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "trainer",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "capable",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "delivering",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "customized",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "workout",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "instructions ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "based",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "on",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "exercise-specific",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "heuristics.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Practical",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Search",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Algorithms:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Implemented",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "uninformed",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "search",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "algorithms",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "BFS,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "DFS,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "UCS",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Informed ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "search",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Algorithms",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "such",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "as",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "A*",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "in",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Pacman",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "environment",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "find",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "optimal",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "paths.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Stock",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Trend",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Predictor:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Led",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "team",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "5",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Implement",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Naive",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bayes",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Model",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "to",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "predict",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "stock",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "trends",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "based ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "on",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "weather",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "we",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "trained",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "the",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "model",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "over",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "10",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "years",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "of",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "tested",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "it",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "on",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "1-year",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "data",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "and",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "got",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "over",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "60% ",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "accuracy.",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "TECHNICAL",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "SKILLS",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810",
+      "id": "b27"
+    },
+    {
+      "id": "b28",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Languages:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Python,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "C,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "SQL",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Developer",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Tools:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "VS",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Code,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "lucid",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Chart,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Dia",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "tool,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Arduino",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "IDE,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Databricks,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "AWS,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "SPARK,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "pandas",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Technologies/Frameworks:",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Linux,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "GitHub,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Gerrit,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Raspbian,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "confluence,",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "jira",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "EDUCATION",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#130810",
+      "id": "b32"
+    },
+    {
+      "id": "b33",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Arizona",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "State",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "University",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "Masters",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "in",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Computer",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Science ",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Tempe,",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Arizona",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "PES",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "University",
+          "font": "Times-Bold",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "type": "paragraph",
+      "page": 0,
+      "runs": [
+        {
+          "text": "B.Tech",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "in",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Computer",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Science",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "and",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Engineering ",
+          "font": "Times-Italic",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Bangalore,",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "India",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "id": "947960e8-af00-4028-8e6a-250b816ad434"
+}

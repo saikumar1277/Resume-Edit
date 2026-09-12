@@ -1,0 +1,5997 @@
+{
+  "document": {
+    "source_file": "test2.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 595.2,
+      "height": 841.92
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward"
+  },
+  "layout": {
+    "divider_lines": []
+  },
+  "raw_elements": [
+    {
+      "page": 0,
+      "block": 0,
+      "line": 0,
+      "span": 0,
+      "text": "Pratik Mali ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 13.92,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        265.8,
+        9.96,
+        332.57,
+        23.88
+      ],
+      "origin": [
+        265.8,
+        20.4
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 0,
+      "text": "San Jose, CA | ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        73.22,
+        26.28,
+        132.65,
+        36.36
+      ],
+      "origin": [
+        73.22,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 1,
+      "text": "malipratik09@gmail.com",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        132.53,
+        26.28,
+        234.81,
+        36.36
+      ],
+      "origin": [
+        132.53,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 2,
+      "text": " | (408) 690-5788 | ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        234.82,
+        26.28,
+        315.11,
+        36.36
+      ],
+      "origin": [
+        234.82,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 3,
+      "text": "linkedin.com/in/pratikmali ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        315.26,
+        26.28,
+        426.05,
+        36.36
+      ],
+      "origin": [
+        315.26,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 4,
+      "text": "| ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        426.19,
+        26.28,
+        433.03,
+        36.36
+      ],
+      "origin": [
+        426.19,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 5,
+      "text": "github.com/impratik7",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        432.91,
+        26.28,
+        522.21,
+        36.36
+      ],
+      "origin": [
+        432.91,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 6,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        521.98,
+        26.28,
+        524.26,
+        36.36
+      ],
+      "origin": [
+        521.98,
+        33.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 2,
+      "span": 0,
+      "text": "EDUCATION ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        38.54,
+        73.82,
+        48.62
+      ],
+      "origin": [
+        21.6,
+        46.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 3,
+      "span": 0,
+      "text": "M.S., Software Engineering ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        52.22,
+        136.73,
+        62.3
+      ],
+      "origin": [
+        21.6,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 3,
+      "span": 1,
+      "text": "(GPA: 3.28)",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        136.61,
+        52.22,
+        182.64,
+        62.3
+      ],
+      "origin": [
+        136.61,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 3,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        182.47,
+        52.22,
+        184.75,
+        62.3
+      ],
+      "origin": [
+        182.47,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 4,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        201.7,
+        52.22,
+        203.98,
+        62.3
+      ],
+      "origin": [
+        201.7,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 5,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        237.7,
+        52.22,
+        239.98,
+        62.3
+      ],
+      "origin": [
+        237.7,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 6,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        273.72,
+        52.22,
+        276.0,
+        62.3
+      ],
+      "origin": [
+        273.72,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 7,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        309.72,
+        52.22,
+        312.0,
+        62.3
+      ],
+      "origin": [
+        309.72,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 8,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        345.74,
+        52.22,
+        348.02,
+        62.3
+      ],
+      "origin": [
+        345.74,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 9,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        381.77,
+        52.22,
+        384.05,
+        62.3
+      ],
+      "origin": [
+        381.77,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 10,
+      "span": 0,
+      "text": "        ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        417.77,
+        52.22,
+        435.91,
+        62.3
+      ],
+      "origin": [
+        417.77,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 11,
+      "span": 0,
+      "text": "         ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        453.79,
+        52.22,
+        474.29,
+        62.3
+      ],
+      "origin": [
+        453.79,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 11,
+      "span": 1,
+      "text": "August 2022 - May 2024 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        474.43,
+        52.22,
+        575.16,
+        62.3
+      ],
+      "origin": [
+        474.43,
+        59.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 12,
+      "span": 0,
+      "text": "San Jose State University, San Jose, CA ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        64.46,
+        179.71,
+        74.54
+      ],
+      "origin": [
+        21.6,
+        72.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 13,
+      "span": 0,
+      "text": "Coursework: Machine Learning",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        77.66,
+        148.02,
+        87.74
+      ],
+      "origin": [
+        21.6,
+        85.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 13,
+      "span": 1,
+      "text": ", ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 11.04,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        148.15,
+        76.94,
+        153.29,
+        87.98
+      ],
+      "origin": [
+        148.15,
+        85.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 13,
+      "span": 2,
+      "text": "Data mining, Big Data Analytics, Enterprise Software Platforms,",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        153.19,
+        77.66,
+        409.49,
+        87.74
+      ],
+      "origin": [
+        153.19,
+        85.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 13,
+      "span": 3,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 11.04,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        409.37,
+        76.94,
+        411.87,
+        87.98
+      ],
+      "origin": [
+        409.37,
+        85.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 13,
+      "span": 4,
+      "text": "Software Systems Engineering ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        411.77,
+        77.66,
+        536.5,
+        87.74
+      ],
+      "origin": [
+        411.77,
+        85.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 14,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        90.14,
+        23.88,
+        100.22
+      ],
+      "origin": [
+        21.6,
+        97.7
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 15,
+      "span": 0,
+      "text": "B.S., Computer Engineering ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        102.38,
+        137.45,
+        112.46
+      ],
+      "origin": [
+        21.6,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 15,
+      "span": 1,
+      "text": "(GPA: 3.76)",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        137.33,
+        102.38,
+        183.36,
+        112.46
+      ],
+      "origin": [
+        137.33,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 15,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        183.19,
+        102.38,
+        185.47,
+        112.46
+      ],
+      "origin": [
+        183.19,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 16,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        201.7,
+        102.38,
+        203.98,
+        112.46
+      ],
+      "origin": [
+        201.7,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 17,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        237.7,
+        102.38,
+        239.98,
+        112.46
+      ],
+      "origin": [
+        237.7,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 18,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        273.72,
+        102.38,
+        276.0,
+        112.46
+      ],
+      "origin": [
+        273.72,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 19,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        309.72,
+        102.38,
+        312.0,
+        112.46
+      ],
+      "origin": [
+        309.72,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 20,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        345.74,
+        102.38,
+        348.02,
+        112.46
+      ],
+      "origin": [
+        345.74,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 21,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        381.77,
+        102.38,
+        384.05,
+        112.46
+      ],
+      "origin": [
+        381.77,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 22,
+      "span": 0,
+      "text": "                   ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        417.77,
+        102.38,
+        460.79,
+        112.46
+      ],
+      "origin": [
+        417.77,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 22,
+      "span": 1,
+      "text": "August 2016 - October2020 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        460.99,
+        102.38,
+        574.92,
+        112.46
+      ],
+      "origin": [
+        460.99,
+        109.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 23,
+      "span": 0,
+      "text": "Bharati Vidyapeeth University, India ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        114.38,
+        170.11,
+        124.46
+      ],
+      "origin": [
+        21.6,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 24,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        201.7,
+        114.38,
+        203.98,
+        124.46
+      ],
+      "origin": [
+        201.7,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 25,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        114.38,
+        239.98,
+        124.46
+      ],
+      "origin": [
+        237.7,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 26,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        114.38,
+        276.0,
+        124.46
+      ],
+      "origin": [
+        273.72,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 27,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        114.38,
+        312.0,
+        124.46
+      ],
+      "origin": [
+        309.72,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 28,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        114.38,
+        348.02,
+        124.46
+      ],
+      "origin": [
+        345.74,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 29,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        114.38,
+        384.05,
+        124.46
+      ],
+      "origin": [
+        381.77,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 30,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        114.38,
+        420.05,
+        124.46
+      ],
+      "origin": [
+        417.77,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 31,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        114.38,
+        456.07,
+        124.46
+      ],
+      "origin": [
+        453.79,
+        121.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 32,
+      "span": 0,
+      "text": "Coursework: Operating System, Data Structure and Algorithm, DBMS, Data Mining, Distributed System, Artificial Intelligence ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        126.65,
+        528.1,
+        136.73
+      ],
+      "origin": [
+        21.6,
+        134.21
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 33,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        138.89,
+        23.88,
+        148.97
+      ],
+      "origin": [
+        21.6,
+        146.45
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 34,
+      "span": 0,
+      "text": "SKILLS ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        151.13,
+        50.06,
+        161.21
+      ],
+      "origin": [
+        21.6,
+        158.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 35,
+      "span": 0,
+      "text": "Programming languages/ Web Technologies: ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        164.81,
+        209.5,
+        174.89
+      ],
+      "origin": [
+        21.6,
+        172.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 35,
+      "span": 1,
+      "text": "Python, Java, C, C++, R, SQL, HTML, CSS, Flask, Tomcat, React, Javascript, REST, gRPC ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        209.62,
+        164.81,
+        553.32,
+        174.89
+      ],
+      "origin": [
+        209.62,
+        172.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 36,
+      "span": 0,
+      "text": "ML and Data science",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        177.05,
+        107.04,
+        187.13
+      ],
+      "origin": [
+        21.6,
+        184.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 36,
+      "span": 1,
+      "text": ": Pandas, Numpy, Spark, Tensorflow, Keras, OpenCV, NLP, LLM, Seaborn, Scikit-learn, Matplotlib, PyTorch ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        107.09,
+        177.05,
+        535.78,
+        187.13
+      ],
+      "origin": [
+        107.09,
+        184.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 37,
+      "span": 0,
+      "text": "Cloud services",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        189.29,
+        80.78,
+        199.37
+      ],
+      "origin": [
+        21.6,
+        196.85
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 37,
+      "span": 1,
+      "text": ": Azure (ADLS, Data Factory, Databricks, Key vault, Logic Apps), AWS, GCP ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        80.9,
+        189.29,
+        379.97,
+        199.37
+      ],
+      "origin": [
+        80.9,
+        196.85
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 38,
+      "span": 0,
+      "text": "Databases",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        201.53,
+        64.7,
+        211.61
+      ],
+      "origin": [
+        21.6,
+        209.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 38,
+      "span": 1,
+      "text": ": MongoDB, Oracle RDBMS, MySQL, PostgreSQL, Azure CosmosDB, AWS DynamoDB, AWS RDS, NoSQL ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        64.82,
+        201.53,
+        480.79,
+        211.61
+      ],
+      "origin": [
+        64.82,
+        209.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 39,
+      "span": 0,
+      "text": "Tools",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        213.79,
+        43.85,
+        223.87
+      ],
+      "origin": [
+        21.6,
+        221.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 39,
+      "span": 1,
+      "text": ": Power BI, Docker, Hadoop, Kubernetes, Git, Databricks, BigQuery, Google Ads Data Hub, Meta Graph API, MATLAB, WinSCP ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        43.94,
+        213.79,
+        551.88,
+        223.87
+      ],
+      "origin": [
+        43.94,
+        221.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 40,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        225.79,
+        23.88,
+        235.87
+      ],
+      "origin": [
+        21.6,
+        233.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 41,
+      "span": 0,
+      "text": "WORK EXPERIENCE ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        238.03,
+        103.61,
+        248.11
+      ],
+      "origin": [
+        21.6,
+        245.59
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 42,
+      "span": 0,
+      "text": "Software Engineer, Persistent Systems",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        251.71,
+        180.9,
+        261.79
+      ],
+      "origin": [
+        21.6,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 42,
+      "span": 1,
+      "text": ", India ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        181.03,
+        251.71,
+        208.06,
+        261.79
+      ],
+      "origin": [
+        181.03,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 43,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        251.71,
+        239.98,
+        261.79
+      ],
+      "origin": [
+        237.7,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 44,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        251.71,
+        276.0,
+        261.79
+      ],
+      "origin": [
+        273.72,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 45,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        251.71,
+        312.0,
+        261.79
+      ],
+      "origin": [
+        309.72,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 46,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        251.71,
+        348.02,
+        261.79
+      ],
+      "origin": [
+        345.74,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 47,
+      "span": 0,
+      "text": "                   ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        251.71,
+        424.85,
+        261.79
+      ],
+      "origin": [
+        381.77,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 48,
+      "span": 0,
+      "text": " November 2020 - July 2022 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        251.71,
+        569.16,
+        261.79
+      ],
+      "origin": [
+        453.79,
+        259.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 49,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        261.86,
+        26.24,
+        274.17
+      ],
+      "origin": [
+        21.6,
+        271.99
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 49,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        262.87,
+        28.96,
+        274.11
+      ],
+      "origin": [
+        26.16,
+        271.99
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 50,
+      "span": 0,
+      "text": "Spearheaded the development and launch of a new service in 7 countries, which increased brand campaign performance by ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        264.43,
+        545.37,
+        274.51
+      ],
+      "origin": [
+        39.62,
+        271.99
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 50,
+      "span": 1,
+      "text": "25%",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        545.52,
+        264.43,
+        562.95,
+        274.51
+      ],
+      "origin": [
+        545.52,
+        271.99
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 50,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        562.8,
+        264.43,
+        565.08,
+        274.51
+      ],
+      "origin": [
+        562.8,
+        271.99
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 51,
+      "span": 0,
+      "text": "across TV, Google and Meta, and provide key insights and analytics leading to better business decisions ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        276.67,
+        460.63,
+        286.75
+      ],
+      "origin": [
+        39.62,
+        284.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 52,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        286.82,
+        26.24,
+        299.13
+      ],
+      "origin": [
+        21.6,
+        296.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 52,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        287.83,
+        28.96,
+        299.07
+      ],
+      "origin": [
+        26.16,
+        296.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 53,
+      "span": 0,
+      "text": "Anchored conversion of 3 data models into efficient ETL Apache spark transformations achieving ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        289.39,
+        433.86,
+        299.47
+      ],
+      "origin": [
+        39.62,
+        296.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 53,
+      "span": 1,
+      "text": "30%",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        434.35,
+        289.39,
+        451.54,
+        299.47
+      ],
+      "origin": [
+        434.35,
+        296.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 53,
+      "span": 2,
+      "text": " performance gain ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        451.63,
+        289.39,
+        528.1,
+        299.47
+      ],
+      "origin": [
+        451.63,
+        296.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 54,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        299.54,
+        26.24,
+        311.85
+      ],
+      "origin": [
+        21.6,
+        309.67
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 54,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        300.55,
+        28.96,
+        311.79
+      ],
+      "origin": [
+        26.16,
+        309.67
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 55,
+      "span": 0,
+      "text": "Built scalable cloud infrastructure by leveraging Azure ADF, Databricks, ADLS, PBI and other web services to extract data from ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        302.11,
+        550.68,
+        312.19
+      ],
+      "origin": [
+        39.62,
+        309.67
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 56,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        312.53,
+        26.24,
+        324.84
+      ],
+      "origin": [
+        21.6,
+        322.66
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 56,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        313.54,
+        28.96,
+        324.78
+      ],
+      "origin": [
+        26.16,
+        322.66
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 57,
+      "span": 0,
+      "text": "various sources (SFTP, Google’s Ads data hub and Meta’s Graph API), perform transformations and visualize on BI tool ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        315.1,
+        520.66,
+        325.18
+      ],
+      "origin": [
+        39.62,
+        322.66
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 58,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        325.25,
+        26.24,
+        337.56
+      ],
+      "origin": [
+        21.6,
+        335.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 58,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        326.26,
+        28.96,
+        337.5
+      ],
+      "origin": [
+        26.16,
+        335.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 59,
+      "span": 0,
+      "text": "Developed a configurable Python library to read and handle different file formats reducing code changes by ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        327.82,
+        478.36,
+        337.9
+      ],
+      "origin": [
+        39.62,
+        335.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 59,
+      "span": 1,
+      "text": "60%",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        478.99,
+        327.82,
+        496.18,
+        337.9
+      ],
+      "origin": [
+        478.99,
+        335.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 59,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        496.06,
+        327.82,
+        498.34,
+        337.9
+      ],
+      "origin": [
+        496.06,
+        335.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 60,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        337.97,
+        26.24,
+        350.28
+      ],
+      "origin": [
+        21.6,
+        348.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 60,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        338.98,
+        28.96,
+        350.22
+      ],
+      "origin": [
+        26.16,
+        348.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 61,
+      "span": 0,
+      "text": "Automated end-to-end ETL through Data factory, serverless logic apps and web apps reducing manual intervention by ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        340.54,
+        520.72,
+        350.62
+      ],
+      "origin": [
+        39.62,
+        348.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 61,
+      "span": 1,
+      "text": "80%",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        521.02,
+        340.54,
+        538.21,
+        350.62
+      ],
+      "origin": [
+        521.02,
+        348.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 61,
+      "span": 2,
+      "text": " and ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        538.3,
+        340.54,
+        558.12,
+        350.62
+      ],
+      "origin": [
+        538.3,
+        348.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 62,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        350.69,
+        26.24,
+        363.0
+      ],
+      "origin": [
+        21.6,
+        360.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 62,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        351.7,
+        28.96,
+        362.94
+      ],
+      "origin": [
+        26.16,
+        360.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 63,
+      "span": 0,
+      "text": "increased performance of existing modules by ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        353.26,
+        229.24,
+        363.34
+      ],
+      "origin": [
+        39.62,
+        360.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 63,
+      "span": 1,
+      "text": "10-25%",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        229.54,
+        353.26,
+        260.17,
+        363.34
+      ],
+      "origin": [
+        229.54,
+        360.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 63,
+      "span": 2,
+      "text": " by applying optimization techniques and refactoring ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        260.04,
+        353.26,
+        476.23,
+        363.34
+      ],
+      "origin": [
+        260.04,
+        360.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 64,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        365.5,
+        41.9,
+        375.58
+      ],
+      "origin": [
+        39.62,
+        373.06
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 65,
+      "span": 0,
+      "text": "Machine Learning Intern, Tech Mahindra",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        377.74,
+        190.73,
+        387.82
+      ],
+      "origin": [
+        21.6,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 65,
+      "span": 1,
+      "text": ", India ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        190.87,
+        377.74,
+        217.9,
+        387.82
+      ],
+      "origin": [
+        190.87,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 66,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        377.74,
+        239.98,
+        387.82
+      ],
+      "origin": [
+        237.7,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 67,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        377.74,
+        276.0,
+        387.82
+      ],
+      "origin": [
+        273.72,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 68,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        377.74,
+        312.0,
+        387.82
+      ],
+      "origin": [
+        309.72,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 69,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        377.74,
+        348.02,
+        387.82
+      ],
+      "origin": [
+        345.74,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 70,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        377.74,
+        384.05,
+        387.82
+      ],
+      "origin": [
+        381.77,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 71,
+      "span": 0,
+      "text": "                       June 2019 - August 2019 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        377.74,
+        571.56,
+        387.82
+      ],
+      "origin": [
+        417.77,
+        385.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 72,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        387.89,
+        26.24,
+        400.2
+      ],
+      "origin": [
+        21.6,
+        398.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 72,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        388.9,
+        28.96,
+        400.14
+      ],
+      "origin": [
+        26.16,
+        398.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 73,
+      "span": 0,
+      "text": "Designed and realized a computer vision-based prototype (",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        390.46,
+        279.65,
+        400.54
+      ],
+      "origin": [
+        39.62,
+        398.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 73,
+      "span": 1,
+      "text": "repo",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        279.72,
+        390.46,
+        298.7,
+        400.54
+      ],
+      "origin": [
+        279.72,
+        398.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 73,
+      "span": 2,
+      "text": ") for simple and intuitive hand gestures ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        298.68,
+        390.46,
+        460.15,
+        400.54
+      ],
+      "origin": [
+        298.68,
+        398.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 74,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        400.63,
+        26.24,
+        412.94
+      ],
+      "origin": [
+        21.6,
+        410.76
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 74,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        401.64,
+        28.96,
+        412.88
+      ],
+      "origin": [
+        26.16,
+        410.76
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 75,
+      "span": 0,
+      "text": "Developed an Android application (music player) that leveraged YOLOv3 (OSS) object detection algorithm ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        403.2,
+        469.99,
+        413.28
+      ],
+      "origin": [
+        39.62,
+        410.76
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 76,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        414.31,
+        26.24,
+        426.62
+      ],
+      "origin": [
+        21.6,
+        424.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 76,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        415.32,
+        28.96,
+        426.56
+      ],
+      "origin": [
+        26.16,
+        424.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 77,
+      "span": 0,
+      "text": "Configured and trained neural network using yolo-darknet framework to get an accuracy of ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        416.88,
+        412.41,
+        426.96
+      ],
+      "origin": [
+        39.62,
+        424.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 77,
+      "span": 1,
+      "text": "80%",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        412.73,
+        416.88,
+        430.16,
+        426.96
+      ],
+      "origin": [
+        412.73,
+        424.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 77,
+      "span": 2,
+      "text": " for each gesture ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        430.03,
+        416.88,
+        500.74,
+        426.96
+      ],
+      "origin": [
+        430.03,
+        424.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 78,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        427.99,
+        26.24,
+        440.3
+      ],
+      "origin": [
+        21.6,
+        438.12
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 78,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        429.0,
+        28.96,
+        440.24
+      ],
+      "origin": [
+        26.16,
+        438.12
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 79,
+      "span": 0,
+      "text": "Tech stack: Python, Flask, Google Colab, TensorFlow, YOLOv3, JSON, Neural networks, Android ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        430.56,
+        425.57,
+        440.64
+      ],
+      "origin": [
+        39.62,
+        438.12
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 80,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        443.76,
+        23.88,
+        453.84
+      ],
+      "origin": [
+        21.6,
+        451.32
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 81,
+      "span": 0,
+      "text": "PROJECTS ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        456.0,
+        64.7,
+        466.08
+      ],
+      "origin": [
+        21.6,
+        463.56
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 82,
+      "span": 0,
+      "text": "Airbnb revenue predictor ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        469.68,
+        129.29,
+        479.76
+      ],
+      "origin": [
+        21.6,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 82,
+      "span": 1,
+      "text": "repo",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        129.17,
+        469.68,
+        148.38,
+        479.76
+      ],
+      "origin": [
+        129.17,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 82,
+      "span": 2,
+      "text": ", ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        148.39,
+        469.68,
+        152.83,
+        479.76
+      ],
+      "origin": [
+        148.39,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 82,
+      "span": 3,
+      "text": "hosted link",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        152.95,
+        469.68,
+        197.85,
+        479.76
+      ],
+      "origin": [
+        152.95,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 82,
+      "span": 4,
+      "text": " (Python, Docker, React, AWS, Regression, OpenStreet API) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        197.59,
+        469.68,
+        438.31,
+        479.76
+      ],
+      "origin": [
+        197.59,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 83,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        469.68,
+        456.07,
+        479.76
+      ],
+      "origin": [
+        453.79,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 84,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        489.82,
+        469.68,
+        492.1,
+        479.76
+      ],
+      "origin": [
+        489.82,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 85,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        525.82,
+        469.68,
+        528.1,
+        479.76
+      ],
+      "origin": [
+        525.82,
+        477.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 86,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        479.85,
+        26.24,
+        492.16
+      ],
+      "origin": [
+        21.6,
+        489.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 86,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        480.86,
+        28.96,
+        492.1
+      ],
+      "origin": [
+        26.16,
+        489.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 87,
+      "span": 0,
+      "text": "Created an interactive map-based dashboard for Airbnb investors to predict how profitable a future Airbnb listing might be based ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        482.42,
+        567.81,
+        492.5
+      ],
+      "origin": [
+        39.62,
+        489.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 88,
+      "span": 0,
+      "text": "on previous listing’s annual revenue, average daily rate, occupancy rates throughout the year, and seasonality ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        494.66,
+        488.26,
+        504.74
+      ],
+      "origin": [
+        39.62,
+        502.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 89,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        504.81,
+        26.24,
+        517.12
+      ],
+      "origin": [
+        21.6,
+        514.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 89,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        505.82,
+        28.96,
+        517.06
+      ],
+      "origin": [
+        26.16,
+        514.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 90,
+      "span": 0,
+      "text": "Predict prices for customers based on various parameters like location, bedroom, bathroom, ratings resulting in F1 score of 0.8 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        507.38,
+        556.92,
+        517.46
+      ],
+      "origin": [
+        39.62,
+        514.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 91,
+      "span": 0,
+      "text": "ChartGPT AI based UML tool ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        519.62,
+        141.85,
+        529.7
+      ],
+      "origin": [
+        21.6,
+        527.18
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 91,
+      "span": 1,
+      "text": "repo",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        141.91,
+        519.62,
+        161.12,
+        529.7
+      ],
+      "origin": [
+        141.91,
+        527.18
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 91,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        160.87,
+        519.62,
+        163.15,
+        529.7
+      ],
+      "origin": [
+        160.87,
+        527.18
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 91,
+      "span": 3,
+      "text": "(OpenAI GPT API, LLM, NLP, UML, Python, JavaScript, CSS) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        163.27,
+        519.62,
+        400.61,
+        529.7
+      ],
+      "origin": [
+        163.27,
+        527.18
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 92,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        529.77,
+        26.24,
+        542.08
+      ],
+      "origin": [
+        21.6,
+        539.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 92,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        530.78,
+        28.96,
+        542.02
+      ],
+      "origin": [
+        26.16,
+        539.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 93,
+      "span": 0,
+      "text": "Developed an AI based tool can generate UML diagrams based on textual descriptions or natural language queries. ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        532.34,
+        507.94,
+        542.42
+      ],
+      "origin": [
+        39.62,
+        539.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 93,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        507.82,
+        532.34,
+        510.1,
+        542.42
+      ],
+      "origin": [
+        507.82,
+        539.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 94,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        542.49,
+        26.24,
+        554.8
+      ],
+      "origin": [
+        21.6,
+        552.62
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 94,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        543.5,
+        28.96,
+        554.74
+      ],
+      "origin": [
+        26.16,
+        552.62
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 95,
+      "span": 0,
+      "text": "Takes input, calls LLM to fetch code in mermaid format and rendered diagrams using Mermaid API.",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        545.06,
+        441.18,
+        555.14
+      ],
+      "origin": [
+        39.62,
+        552.62
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 95,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        441.55,
+        545.06,
+        443.83,
+        555.14
+      ],
+      "origin": [
+        441.55,
+        552.62
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 96,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        555.21,
+        26.24,
+        567.52
+      ],
+      "origin": [
+        21.6,
+        565.34
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 96,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        556.22,
+        28.96,
+        567.46
+      ],
+      "origin": [
+        26.16,
+        565.34
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 97,
+      "span": 0,
+      "text": "Integrated and utilized OpeanAI’s GPT 3.5 and Mermaid API. Supports UML ER, class, sequence, state, gantt diagrams ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        557.78,
+        518.02,
+        567.86
+      ],
+      "origin": [
+        39.62,
+        565.34
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 98,
+      "span": 0,
+      "text": "Twitter sentiment analysis",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        570.98,
+        131.83,
+        581.06
+      ],
+      "origin": [
+        21.6,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 98,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        131.81,
+        570.98,
+        134.09,
+        581.06
+      ],
+      "origin": [
+        131.81,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 98,
+      "span": 2,
+      "text": "repo",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        134.21,
+        570.98,
+        153.19,
+        581.06
+      ],
+      "origin": [
+        134.21,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 98,
+      "span": 3,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        153.19,
+        570.98,
+        155.47,
+        581.06
+      ],
+      "origin": [
+        153.19,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 98,
+      "span": 4,
+      "text": "(Matplotlib, NumPy, Tweepy, textblob lib, Jupytr/colab notebook) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        155.35,
+        570.98,
+        425.09,
+        581.06
+      ],
+      "origin": [
+        155.35,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 99,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        570.98,
+        456.07,
+        581.06
+      ],
+      "origin": [
+        453.79,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 100,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        489.82,
+        570.98,
+        492.1,
+        581.06
+      ],
+      "origin": [
+        489.82,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 101,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        525.82,
+        570.98,
+        528.1,
+        581.06
+      ],
+      "origin": [
+        525.82,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 102,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        561.84,
+        570.98,
+        564.12,
+        581.06
+      ],
+      "origin": [
+        561.84,
+        578.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 103,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        582.12,
+        26.24,
+        594.43
+      ],
+      "origin": [
+        21.6,
+        592.25
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 103,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        583.13,
+        28.96,
+        594.37
+      ],
+      "origin": [
+        26.16,
+        592.25
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 104,
+      "span": 0,
+      "text": "Charted and implemented a real-time sentiment analysis system for Twitter using machine learning and the Twitter API",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        584.69,
+        524.09,
+        594.77
+      ],
+      "origin": [
+        39.62,
+        592.25
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 104,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        524.38,
+        584.69,
+        526.66,
+        594.77
+      ],
+      "origin": [
+        524.38,
+        592.25
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 105,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        594.84,
+        26.24,
+        607.15
+      ],
+      "origin": [
+        21.6,
+        604.97
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 105,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        595.85,
+        28.96,
+        607.09
+      ],
+      "origin": [
+        26.16,
+        604.97
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 106,
+      "span": 0,
+      "text": "Trained and evaluated multiple ML models to classify tweets as positive, negative, or neutral, achieving an overall F1 score of 0.87",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        597.41,
+        567.88,
+        607.49
+      ],
+      "origin": [
+        39.62,
+        604.97
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 106,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        567.84,
+        597.41,
+        570.12,
+        607.49
+      ],
+      "origin": [
+        567.84,
+        604.97
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 107,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        607.56,
+        26.24,
+        619.87
+      ],
+      "origin": [
+        21.6,
+        617.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 107,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        608.57,
+        28.96,
+        619.81
+      ],
+      "origin": [
+        26.16,
+        617.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 108,
+      "span": 0,
+      "text": "Utilized natural language processing techniques to preprocess 1000 tweet text and visualize sentiment analysis results in real time",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        610.13,
+        568.28,
+        620.21
+      ],
+      "origin": [
+        39.62,
+        617.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 108,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        568.08,
+        610.13,
+        570.36,
+        620.21
+      ],
+      "origin": [
+        568.08,
+        617.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 109,
+      "span": 0,
+      "text": "Airport Management System ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        622.37,
+        144.19,
+        632.45
+      ],
+      "origin": [
+        21.6,
+        629.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 109,
+      "span": 1,
+      "text": "repo",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        144.31,
+        622.37,
+        163.29,
+        632.45
+      ],
+      "origin": [
+        144.31,
+        629.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 109,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        163.27,
+        622.37,
+        165.55,
+        632.45
+      ],
+      "origin": [
+        163.27,
+        629.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 109,
+      "span": 3,
+      "text": "(Python, Django, ReactJS, AWS RDS, ELB, EC2, REST API, Figma) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        165.43,
+        622.37,
+        422.21,
+        632.45
+      ],
+      "origin": [
+        165.43,
+        629.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 110,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        632.52,
+        26.24,
+        644.83
+      ],
+      "origin": [
+        21.6,
+        642.65
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 110,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        633.53,
+        28.96,
+        644.77
+      ],
+      "origin": [
+        26.16,
+        642.65
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 111,
+      "span": 0,
+      "text": " Developed a scalable airport management system using Django as backend, ReactJS as frontend and implemented 19 APIs on AWS ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        635.09,
+        574.44,
+        645.17
+      ],
+      "origin": [
+        39.62,
+        642.65
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 112,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        645.24,
+        26.24,
+        657.55
+      ],
+      "origin": [
+        21.6,
+        655.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 112,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        646.25,
+        28.96,
+        657.49
+      ],
+      "origin": [
+        26.16,
+        655.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 113,
+      "span": 0,
+      "text": " Provided key features like flight tracking for customers, gate and baggage carousel assignment for airport and airline employees ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        647.81,
+        563.4,
+        657.89
+      ],
+      "origin": [
+        39.62,
+        655.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 114,
+      "span": 0,
+      "text": "NASA Exoplanet prediction ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        660.05,
+        136.01,
+        670.13
+      ],
+      "origin": [
+        21.6,
+        667.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 114,
+      "span": 1,
+      "text": "repo",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#0563C1",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        136.13,
+        660.05,
+        155.11,
+        670.13
+      ],
+      "origin": [
+        136.13,
+        667.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 114,
+      "span": 2,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        155.11,
+        660.05,
+        157.39,
+        670.13
+      ],
+      "origin": [
+        155.11,
+        667.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 114,
+      "span": 3,
+      "text": "(Python, Pandas, Numpy, Sklearn, Pandas_profiling, XGBClassifier, graphviz) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        157.27,
+        660.05,
+        467.11,
+        670.13
+      ],
+      "origin": [
+        157.27,
+        667.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 115,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        670.22,
+        26.24,
+        682.53
+      ],
+      "origin": [
+        21.6,
+        680.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 115,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        671.23,
+        28.96,
+        682.47
+      ],
+      "origin": [
+        26.16,
+        680.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 116,
+      "span": 0,
+      "text": " Extracted NASA dataset and predict whether given planet is candidate for an exoplanet ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        672.79,
+        398.21,
+        682.87
+      ],
+      "origin": [
+        39.62,
+        680.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 117,
+      "span": 0,
+      "text": "•",
+      "font": "Helvetica",
+      "source_font": "SymbolMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        682.94,
+        26.24,
+        695.25
+      ],
+      "origin": [
+        21.6,
+        693.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 117,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        26.16,
+        683.95,
+        28.96,
+        695.19
+      ],
+      "origin": [
+        26.16,
+        693.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 118,
+      "span": 0,
+      "text": " Benchmarked various classification algorithms and finally used XGBClassifier with F1 score of 0.96 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        685.51,
+        440.71,
+        695.59
+      ],
+      "origin": [
+        39.62,
+        693.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 119,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        39.62,
+        697.75,
+        41.9,
+        707.83
+      ],
+      "origin": [
+        39.62,
+        705.31
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 120,
+      "span": 0,
+      "text": "CERTIFICATIONS ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        709.99,
+        91.61,
+        720.07
+      ],
+      "origin": [
+        21.6,
+        717.55
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 121,
+      "span": 0,
+      "text": "Microsoft Certified: Azure Developer Associate (AZ-204) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        723.67,
+        251.02,
+        733.75
+      ],
+      "origin": [
+        21.6,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 122,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        723.67,
+        276.0,
+        733.75
+      ],
+      "origin": [
+        273.72,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 123,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        723.67,
+        312.0,
+        733.75
+      ],
+      "origin": [
+        309.72,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 124,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        723.67,
+        348.02,
+        733.75
+      ],
+      "origin": [
+        345.74,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 125,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        723.67,
+        384.05,
+        733.75
+      ],
+      "origin": [
+        381.77,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 126,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        723.67,
+        420.05,
+        733.75
+      ],
+      "origin": [
+        417.77,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 127,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        723.67,
+        456.07,
+        733.75
+      ],
+      "origin": [
+        453.79,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 128,
+      "span": 0,
+      "text": "                 April 2022 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        489.82,
+        723.67,
+        572.28,
+        733.75
+      ],
+      "origin": [
+        489.82,
+        731.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 129,
+      "span": 0,
+      "text": "Microsoft Certified: Azure Data Fundamentals (DP-900) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        735.91,
+        248.14,
+        745.99
+      ],
+      "origin": [
+        21.6,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 130,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        735.91,
+        276.0,
+        745.99
+      ],
+      "origin": [
+        273.72,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 131,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        735.91,
+        312.0,
+        745.99
+      ],
+      "origin": [
+        309.72,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 132,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        735.91,
+        348.02,
+        745.99
+      ],
+      "origin": [
+        345.74,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 133,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        735.91,
+        384.05,
+        745.99
+      ],
+      "origin": [
+        381.77,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 134,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        735.91,
+        420.05,
+        745.99
+      ],
+      "origin": [
+        417.77,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 135,
+      "span": 0,
+      "text": "                            January 2022 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        735.91,
+        573.24,
+        745.99
+      ],
+      "origin": [
+        453.79,
+        743.47
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 136,
+      "span": 0,
+      "text": "Microsoft Certified: Azure Fundamentals (AZ-900) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        748.15,
+        226.06,
+        758.23
+      ],
+      "origin": [
+        21.6,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 137,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        748.15,
+        239.98,
+        758.23
+      ],
+      "origin": [
+        237.7,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 138,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        748.15,
+        276.0,
+        758.23
+      ],
+      "origin": [
+        273.72,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 139,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        748.15,
+        312.0,
+        758.23
+      ],
+      "origin": [
+        309.72,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 140,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        748.15,
+        348.02,
+        758.23
+      ],
+      "origin": [
+        345.74,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 141,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        748.15,
+        384.05,
+        758.23
+      ],
+      "origin": [
+        381.77,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 142,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        748.15,
+        420.05,
+        758.23
+      ],
+      "origin": [
+        417.77,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 143,
+      "span": 0,
+      "text": "                       November 2021 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        748.15,
+        573.48,
+        758.23
+      ],
+      "origin": [
+        453.79,
+        755.71
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 144,
+      "span": 0,
+      "text": "Cisco Certified Network Associate (CCNA) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        760.42,
+        191.71,
+        770.5
+      ],
+      "origin": [
+        21.6,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 145,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        201.7,
+        760.42,
+        203.98,
+        770.5
+      ],
+      "origin": [
+        201.7,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 146,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        760.42,
+        239.98,
+        770.5
+      ],
+      "origin": [
+        237.7,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 147,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        760.42,
+        276.0,
+        770.5
+      ],
+      "origin": [
+        273.72,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 148,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        760.42,
+        312.0,
+        770.5
+      ],
+      "origin": [
+        309.72,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 149,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        760.42,
+        348.02,
+        770.5
+      ],
+      "origin": [
+        345.74,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 150,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        760.42,
+        384.05,
+        770.5
+      ],
+      "origin": [
+        381.77,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 151,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        760.42,
+        420.05,
+        770.5
+      ],
+      "origin": [
+        417.77,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 152,
+      "span": 0,
+      "text": "                           October 2018 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        760.42,
+        572.76,
+        770.5
+      ],
+      "origin": [
+        453.79,
+        767.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 153,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        772.42,
+        23.88,
+        782.5
+      ],
+      "origin": [
+        21.6,
+        779.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 154,
+      "span": 0,
+      "text": "ACTIVITIES ",
+      "font": "Helvetica-Bold",
+      "source_font": "Calibri-Bold",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        21.6,
+        784.66,
+        68.78,
+        794.74
+      ],
+      "origin": [
+        21.6,
+        792.22
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 155,
+      "span": 0,
+      "text": "LA Hacks, University of California, Los Angeles (UCLA) ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        798.34,
+        239.74,
+        808.42
+      ],
+      "origin": [
+        21.6,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 156,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        798.34,
+        276.0,
+        808.42
+      ],
+      "origin": [
+        273.72,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 157,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        798.34,
+        312.0,
+        808.42
+      ],
+      "origin": [
+        309.72,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 158,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        798.34,
+        348.02,
+        808.42
+      ],
+      "origin": [
+        345.74,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 159,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        798.34,
+        384.05,
+        808.42
+      ],
+      "origin": [
+        381.77,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 160,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        798.34,
+        420.05,
+        808.42
+      ],
+      "origin": [
+        417.77,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 161,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        798.34,
+        456.07,
+        808.42
+      ],
+      "origin": [
+        453.79,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 162,
+      "span": 0,
+      "text": "                  April 2022 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        489.82,
+        798.34,
+        574.44,
+        808.42
+      ],
+      "origin": [
+        489.82,
+        805.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 163,
+      "span": 0,
+      "text": "Lead, Technical team, Mozilla Campus Club   ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        810.58,
+        203.98,
+        820.66
+      ],
+      "origin": [
+        21.6,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 164,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        810.58,
+        239.98,
+        820.66
+      ],
+      "origin": [
+        237.7,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 165,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        810.58,
+        276.0,
+        820.66
+      ],
+      "origin": [
+        273.72,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 166,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        810.58,
+        312.0,
+        820.66
+      ],
+      "origin": [
+        309.72,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 167,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        810.58,
+        348.02,
+        820.66
+      ],
+      "origin": [
+        345.74,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 168,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        810.58,
+        384.05,
+        820.66
+      ],
+      "origin": [
+        381.77,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 169,
+      "span": 0,
+      "text": "                                               2018 - 2020 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        810.58,
+        574.44,
+        820.66
+      ],
+      "origin": [
+        417.77,
+        818.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 170,
+      "span": 0,
+      "text": "Technical member, Network Security Group  ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        21.6,
+        822.82,
+        203.98,
+        832.9
+      ],
+      "origin": [
+        21.6,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 171,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.7,
+        822.82,
+        239.98,
+        832.9
+      ],
+      "origin": [
+        237.7,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 172,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        273.72,
+        822.82,
+        276.0,
+        832.9
+      ],
+      "origin": [
+        273.72,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 173,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        309.72,
+        822.82,
+        312.0,
+        832.9
+      ],
+      "origin": [
+        309.72,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 174,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        345.74,
+        822.82,
+        348.02,
+        832.9
+      ],
+      "origin": [
+        345.74,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 175,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        381.77,
+        822.82,
+        384.05,
+        832.9
+      ],
+      "origin": [
+        381.77,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 176,
+      "span": 0,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        417.77,
+        822.82,
+        420.05,
+        832.9
+      ],
+      "origin": [
+        417.77,
+        830.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 177,
+      "span": 0,
+      "text": "                               2016 - 2017 ",
+      "font": "Helvetica",
+      "source_font": "Calibri",
+      "size_pt": 10.08,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        453.79,
+        822.82,
+        574.2,
+        832.9
+      ],
+      "origin": [
+        453.79,
+        830.38
+      ]
+    }
+  ],
+  "id": "ca8c02c9-d35a-4f9a-959c-a9dc2cdabc0f"
+}

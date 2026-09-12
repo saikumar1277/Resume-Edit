@@ -1,0 +1,2993 @@
+{
+  "document": {
+    "source_file": "TejasBhitle_Resume.pdf.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward"
+  },
+  "layout": {
+    "divider_lines": [
+      {
+        "page": 0,
+        "x0": 35.96,
+        "y0": 80.53,
+        "x1": 570.8,
+        "y1": 80.53,
+        "width_pt": 0.75,
+        "color_hex": "#000000"
+      },
+      {
+        "page": 0,
+        "x0": 35.96,
+        "y0": 369.67,
+        "x1": 570.8,
+        "y1": 369.67,
+        "width_pt": 0.75,
+        "color_hex": "#000000"
+      },
+      {
+        "page": 0,
+        "x0": 35.96,
+        "y0": 470.8,
+        "x1": 570.8,
+        "y1": 470.8,
+        "width_pt": 0.75,
+        "color_hex": "#000000"
+      },
+      {
+        "page": 0,
+        "x0": 35.96,
+        "y0": 652.82,
+        "x1": 570.8,
+        "y1": 652.82,
+        "width_pt": 0.75,
+        "color_hex": "#000000"
+      },
+      {
+        "page": 0,
+        "x0": 35.96,
+        "y0": 728.48,
+        "x1": 570.8,
+        "y1": 728.48,
+        "width_pt": 0.75,
+        "color_hex": "#000000"
+      },
+      {
+        "page": 0,
+        "x0": 458.44,
+        "y0": 626.61,
+        "x1": 528.85,
+        "y1": 626.61,
+        "width_pt": 0.75,
+        "color_hex": "#000000"
+      }
+    ]
+  },
+  "raw_elements": [
+    {
+      "page": 0,
+      "block": 0,
+      "line": 0,
+      "span": 0,
+      "text": "‭Tejas Bhitle‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 15.98,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        259.04,
+        27.85,
+        351.98,
+        45.7
+      ],
+      "origin": [
+        259.04,
+        42.32
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 0,
+      "text": "‭tejasgaj@buffalo.edu‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.99,
+      "color_hex": "#1155CC",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        65.23,
+        49.96,
+        152.15,
+        60
+      ],
+      "origin": [
+        65.23,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 1,
+      "text": "‭•‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.49,
+      "color_hex": "#2E3C4F",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        153.27,
+        50.41,
+        158.6,
+        59.89
+      ],
+      "origin": [
+        153.27,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 2,
+      "text": " ‭linkedin/tejasbhitle‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.99,
+      "color_hex": "#1155CC",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        158.6,
+        49.96,
+        236.48,
+        60
+      ],
+      "origin": [
+        158.6,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 3,
+      "text": "‭•‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.49,
+      "color_hex": "#2E3C4F",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        237.6,
+        50.41,
+        242.93,
+        59.89
+      ],
+      "origin": [
+        237.6,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 4,
+      "text": "‭tejasbhitle.github.io‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.99,
+      "color_hex": "#1155CC",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        243.07,
+        49.96,
+        322.51,
+        60
+      ],
+      "origin": [
+        243.07,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 5,
+      "text": " ‭•‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.49,
+      "color_hex": "#2E3C4F",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        322.51,
+        50.41,
+        330.35,
+        59.89
+      ],
+      "origin": [
+        322.51,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 6,
+      "text": "‭github/TejasBhitle‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.99,
+      "color_hex": "#1155CC",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        330.49,
+        49.96,
+        403.44,
+        60
+      ],
+      "origin": [
+        330.49,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 7,
+      "text": " ‭•‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.49,
+      "color_hex": "#2E3C4F",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        403.44,
+        50.41,
+        411.13,
+        59.89
+      ],
+      "origin": [
+        403.44,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 8,
+      "text": "‭leetcode/TejasBhitle‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.99,
+      "color_hex": "#1155CC",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        410.58,
+        49.96,
+        493.02,
+        60
+      ],
+      "origin": [
+        410.58,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 9,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.49,
+      "color_hex": "#2E3C4F",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        493.02,
+        50.41,
+        495.94,
+        59.89
+      ],
+      "origin": [
+        493.02,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 10,
+      "text": "‭•‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.49,
+      "color_hex": "#2E3C4F",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        495.94,
+        50.41,
+        501.27,
+        59.89
+      ],
+      "origin": [
+        495.94,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 11,
+      "text": " ‭New York‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 8.99,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        501.27,
+        49.96,
+        543.84,
+        60
+      ],
+      "origin": [
+        501.27,
+        58.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 0,
+      "span": 0,
+      "text": "‭PROFESSIONAL EXPERIENCE‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        67.98,
+        184.47,
+        79.13
+      ],
+      "origin": [
+        35.78,
+        77.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 3,
+      "line": 0,
+      "span": 0,
+      "text": "‭Morgan Stanley‬‭— Senior Software Developer‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        86.69,
+        244.46,
+        97.28
+      ],
+      "origin": [
+        35.78,
+        95.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 3,
+      "line": 1,
+      "span": 0,
+      "text": "‭Mumbai‬‭|‬‭June 2021 — July 2022‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        423.72,
+        86.69,
+        573.44,
+        97.28
+      ],
+      "origin": [
+        423.72,
+        95.27
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        101.95,
+        41.5,
+        109.2
+      ],
+      "origin": [
+        35.78,
+        107.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        99.24,
+        44.77,
+        109.83
+      ],
+      "origin": [
+        41.5,
+        107.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 0,
+      "span": 2,
+      "text": "‭Engineered a high-performance reconciliation platform handling 10 million records‬‭daily, based on Spring,‬‭Angular, and DB2.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        99.24,
+        569.12,
+        109.83
+      ],
+      "origin": [
+        44.77,
+        107.82
+      ]
+    },
+    {
+      "page": 0,
+      "block": 5,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        114.5,
+        41.5,
+        121.74
+      ],
+      "origin": [
+        35.78,
+        120.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 5,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        111.78,
+        44.77,
+        122.38
+      ],
+      "origin": [
+        41.5,
+        120.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 5,
+      "line": 0,
+      "span": 2,
+      "text": "‭Modeled tasks (translations, lookups, filters, etc.) of workflow as a Directed Acyclic Graph and wrote a custom Topological‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        111.78,
+        557.61,
+        122.38
+      ],
+      "origin": [
+        44.77,
+        120.37
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 0,
+      "span": 0,
+      "text": "‭Sort Algorithm for ordering those API calls, improving workflow runtime by 65%.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        124.33,
+        381.03,
+        134.92
+      ],
+      "origin": [
+        44.77,
+        132.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        139.59,
+        41.5,
+        146.84
+      ],
+      "origin": [
+        35.78,
+        145.46
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        136.88,
+        44.77,
+        147.47
+      ],
+      "origin": [
+        41.5,
+        145.46
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 0,
+      "span": 2,
+      "text": "‭Enhanced production job management and auditing by standardizing over 15000 jobs on Autosys with Python/Bash scripts.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        136.88,
+        564.57,
+        147.47
+      ],
+      "origin": [
+        44.77,
+        145.46
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 0,
+      "span": 0,
+      "text": "‭Barclays‬‭— Software Developer‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        157.96,
+        181.25,
+        168.55
+      ],
+      "origin": [
+        35.78,
+        166.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 1,
+      "span": 0,
+      "text": "‭Pune‬‭|‬‭July 2019 — June 2021‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        436.37,
+        157.96,
+        573.44,
+        168.55
+      ],
+      "origin": [
+        436.37,
+        166.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 9,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        173.22,
+        41.5,
+        180.47
+      ],
+      "origin": [
+        35.78,
+        179.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 9,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        170.51,
+        44.77,
+        181.1
+      ],
+      "origin": [
+        41.5,
+        179.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 9,
+      "line": 0,
+      "span": 2,
+      "text": "‭Managed project of multiple trade engines & services leveraging Spring, improving MIFID-2 reporting SLA by 20%.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        170.51,
+        527.6,
+        181.1
+      ],
+      "origin": [
+        44.77,
+        179.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 10,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        185.77,
+        41.5,
+        193.01
+      ],
+      "origin": [
+        35.78,
+        191.64
+      ]
+    },
+    {
+      "page": 0,
+      "block": 10,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        183.05,
+        44.77,
+        193.65
+      ],
+      "origin": [
+        41.5,
+        191.64
+      ]
+    },
+    {
+      "page": 0,
+      "block": 10,
+      "line": 0,
+      "span": 2,
+      "text": "‭Migrated messaging infrastructure to Kafka across services, decoupled 3 major gradle projects, & automated testing.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        183.05,
+        536.56,
+        193.65
+      ],
+      "origin": [
+        44.77,
+        191.64
+      ]
+    },
+    {
+      "page": 0,
+      "block": 11,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        198.31,
+        41.5,
+        205.56
+      ],
+      "origin": [
+        35.78,
+        204.19
+      ]
+    },
+    {
+      "page": 0,
+      "block": 11,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        195.6,
+        44.77,
+        206.2
+      ],
+      "origin": [
+        41.5,
+        204.19
+      ]
+    },
+    {
+      "page": 0,
+      "block": 11,
+      "line": 0,
+      "span": 2,
+      "text": "‭Automated VoltDB deployment on Unix/Windows servers with Bash/Batch scripting, reducing manual work by 80%.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        195.6,
+        529.7,
+        206.2
+      ],
+      "origin": [
+        44.77,
+        204.19
+      ]
+    },
+    {
+      "page": 0,
+      "block": 12,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        210.86,
+        41.5,
+        218.11
+      ],
+      "origin": [
+        35.78,
+        216.73
+      ]
+    },
+    {
+      "page": 0,
+      "block": 12,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        208.15,
+        44.77,
+        218.74
+      ],
+      "origin": [
+        41.5,
+        216.73
+      ]
+    },
+    {
+      "page": 0,
+      "block": 12,
+      "line": 0,
+      "span": 2,
+      "text": "‭Compiled & configured CI/CD pipelines via Jenkins & Bash scripts to streamline software builds and deployment.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        208.15,
+        520.22,
+        218.74
+      ],
+      "origin": [
+        44.77,
+        216.73
+      ]
+    },
+    {
+      "page": 0,
+      "block": 13,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        223.41,
+        41.5,
+        230.66
+      ],
+      "origin": [
+        35.78,
+        229.28
+      ]
+    },
+    {
+      "page": 0,
+      "block": 13,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        220.7,
+        44.77,
+        231.29
+      ],
+      "origin": [
+        41.5,
+        229.28
+      ]
+    },
+    {
+      "page": 0,
+      "block": 13,
+      "line": 0,
+      "span": 2,
+      "text": "‭Recognized with Barclays Recognition Program Award for end-to-end delivery of a Spring Batch workflow within 3 weeks.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        220.7,
+        556.41,
+        231.29
+      ],
+      "origin": [
+        44.77,
+        229.28
+      ]
+    },
+    {
+      "page": 0,
+      "block": 14,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        235.96,
+        41.5,
+        243.2
+      ],
+      "origin": [
+        35.78,
+        241.83
+      ]
+    },
+    {
+      "page": 0,
+      "block": 14,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        233.24,
+        44.77,
+        243.84
+      ],
+      "origin": [
+        41.5,
+        241.83
+      ]
+    },
+    {
+      "page": 0,
+      "block": 14,
+      "line": 0,
+      "span": 2,
+      "text": "‭Contributed to team growth by conducting interviews in recruitment drives and training 4 new hires.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        233.24,
+        461.72,
+        243.84
+      ],
+      "origin": [
+        44.77,
+        241.83
+      ]
+    },
+    {
+      "page": 0,
+      "block": 15,
+      "line": 0,
+      "span": 0,
+      "text": "‭Morgan Stanley‬‭— SDE Intern‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        254.32,
+        172.25,
+        264.92
+      ],
+      "origin": [
+        35.78,
+        262.91
+      ]
+    },
+    {
+      "page": 0,
+      "block": 15,
+      "line": 1,
+      "span": 0,
+      "text": "‭Mumbai‬‭|‬‭May 2018 — July‬‭2018‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        427.41,
+        254.32,
+        573.44,
+        264.92
+      ],
+      "origin": [
+        427.41,
+        262.91
+      ]
+    },
+    {
+      "page": 0,
+      "block": 16,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        269.58,
+        41.5,
+        276.83
+      ],
+      "origin": [
+        35.78,
+        275.46
+      ]
+    },
+    {
+      "page": 0,
+      "block": 16,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        266.87,
+        44.77,
+        277.47
+      ],
+      "origin": [
+        41.5,
+        275.46
+      ]
+    },
+    {
+      "page": 0,
+      "block": 16,
+      "line": 0,
+      "span": 2,
+      "text": "Revamped the ETP platform in Angular/Ionic, enabling seamless mobile user experience for Institutional Securities Business.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        266.87,
+        571.89,
+        277.47
+      ],
+      "origin": [
+        44.77,
+        275.46
+      ]
+    },
+    {
+      "page": 0,
+      "block": 17,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        282.13,
+        41.5,
+        289.38
+      ],
+      "origin": [
+        35.78,
+        288
+      ]
+    },
+    {
+      "page": 0,
+      "block": 17,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        279.42,
+        44.77,
+        290.01
+      ],
+      "origin": [
+        41.5,
+        288
+      ]
+    },
+    {
+      "page": 0,
+      "block": 17,
+      "line": 0,
+      "span": 2,
+      "text": "‭Streamlined live data handling with RxJS and lazily loaded UI components, leading to a 70% reduction in start-up time.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        279.42,
+        544.5,
+        290.01
+      ],
+      "origin": [
+        44.77,
+        288
+      ]
+    },
+    {
+      "page": 0,
+      "block": 18,
+      "line": 0,
+      "span": 0,
+      "text": "‭Toast‬‭— Android Intern‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        300.5,
+        143.08,
+        311.1
+      ],
+      "origin": [
+        35.78,
+        309.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 18,
+      "line": 1,
+      "span": 0,
+      "text": "‭Remote‬‭|‬‭May 2017 — October 2017‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        411.07,
+        300.5,
+        573.44,
+        311.1
+      ],
+      "origin": [
+        411.07,
+        309.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 19,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        314.12,
+        41.5,
+        321.37
+      ],
+      "origin": [
+        35.78,
+        320
+      ]
+    },
+    {
+      "page": 0,
+      "block": 19,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        311.41,
+        44.77,
+        322.01
+      ],
+      "origin": [
+        41.5,
+        320
+      ]
+    },
+    {
+      "page": 0,
+      "block": 19,
+      "line": 0,
+      "span": 2,
+      "text": "‭Spearheaded a team of 3 in making an Android app that allows users to discover and join parties nearby.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        311.41,
+        486.89,
+        322.01
+      ],
+      "origin": [
+        44.77,
+        320
+      ]
+    },
+    {
+      "page": 0,
+      "block": 20,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        326.67,
+        41.5,
+        333.92
+      ],
+      "origin": [
+        35.78,
+        332.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 20,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        323.96,
+        44.77,
+        334.55
+      ],
+      "origin": [
+        41.5,
+        332.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 20,
+      "line": 0,
+      "span": 2,
+      "text": "‭Leveraged Google Maps API to geo-fence and display nearby party locations, and integrated Stripe Payment API.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        323.96,
+        524.49,
+        334.55
+      ],
+      "origin": [
+        44.77,
+        332.54
+      ]
+    },
+    {
+      "page": 0,
+      "block": 21,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        339.22,
+        41.5,
+        346.47
+      ],
+      "origin": [
+        35.78,
+        345.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 21,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        336.51,
+        44.77,
+        347.1
+      ],
+      "origin": [
+        41.5,
+        345.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 21,
+      "line": 0,
+      "span": 2,
+      "text": "‭Created MVVM architecture and custom view components for feed, party hosting, and party joining screens.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        336.51,
+        499.67,
+        347.1
+      ],
+      "origin": [
+        44.77,
+        345.09
+      ]
+    },
+    {
+      "page": 0,
+      "block": 22,
+      "line": 0,
+      "span": 0,
+      "text": "‭EDUCATION‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        357.11,
+        97.17,
+        368.26
+      ],
+      "origin": [
+        35.78,
+        366.15
+      ]
+    },
+    {
+      "page": 0,
+      "block": 23,
+      "line": 0,
+      "span": 0,
+      "text": "‭University at Buffalo, The State University of New York‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        376.29,
+        283.81,
+        386.88
+      ],
+      "origin": [
+        35.78,
+        384.87
+      ]
+    },
+    {
+      "page": 0,
+      "block": 23,
+      "line": 1,
+      "span": 0,
+      "text": "‭(Expected) December 2023‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        450.09,
+        376.29,
+        573.44,
+        386.88
+      ],
+      "origin": [
+        450.09,
+        384.87
+      ]
+    },
+    {
+      "page": 0,
+      "block": 23,
+      "line": 2,
+      "span": 0,
+      "text": "‭Master of Science in Computer Science and Engineering —  3.81/4.0‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        389.03,
+        328.35,
+        399.62
+      ],
+      "origin": [
+        35.78,
+        397.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 23,
+      "line": 3,
+      "span": 0,
+      "text": "‭New York, US‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        512.12,
+        389.03,
+        573.44,
+        399.62
+      ],
+      "origin": [
+        512.12,
+        397.61
+      ]
+    },
+    {
+      "page": 0,
+      "block": 23,
+      "line": 4,
+      "span": 0,
+      "text": "‭Relevant Coursework — Distributed Systems, Operating Systems, Algorithms, Blockchain, Machine Learning‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        401.57,
+        495.91,
+        412.17
+      ],
+      "origin": [
+        35.78,
+        410.16
+      ]
+    },
+    {
+      "page": 0,
+      "block": 24,
+      "line": 0,
+      "span": 0,
+      "text": "‭University of Mumbai‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        422.05,
+        134.32,
+        432.64
+      ],
+      "origin": [
+        35.78,
+        430.63
+      ]
+    },
+    {
+      "page": 0,
+      "block": 24,
+      "line": 0,
+      "span": 1,
+      "text": "‭(Sardar Patel Institute of Technology)‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        134.31,
+        422.05,
+        292.98,
+        432.64
+      ],
+      "origin": [
+        134.31,
+        430.63
+      ]
+    },
+    {
+      "page": 0,
+      "block": 24,
+      "line": 1,
+      "span": 0,
+      "text": "‭May 2019‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        528.62,
+        422.05,
+        573.44,
+        432.64
+      ],
+      "origin": [
+        528.62,
+        430.63
+      ]
+    },
+    {
+      "page": 0,
+      "block": 24,
+      "line": 2,
+      "span": 0,
+      "text": "‭Bachelor of Engineering in Computer Science —  8.4/10 ‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        434.59,
+        274.05,
+        445.19
+      ],
+      "origin": [
+        35.78,
+        443.18
+      ]
+    },
+    {
+      "page": 0,
+      "block": 24,
+      "line": 3,
+      "span": 0,
+      "text": "‭Mumbai, IN‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        522.32,
+        434.59,
+        573.44,
+        445.19
+      ],
+      "origin": [
+        522.32,
+        443.18
+      ]
+    },
+    {
+      "page": 0,
+      "block": 25,
+      "line": 0,
+      "span": 0,
+      "text": "‭PROJECTS‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        458.64,
+        92.37,
+        469.79
+      ],
+      "origin": [
+        35.78,
+        467.68
+      ]
+    },
+    {
+      "page": 0,
+      "block": 26,
+      "line": 0,
+      "span": 0,
+      "text": "‭FoodCourt‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        478.21,
+        86.87,
+        488.81
+      ],
+      "origin": [
+        35.78,
+        486.8
+      ]
+    },
+    {
+      "page": 0,
+      "block": 26,
+      "line": 0,
+      "span": 1,
+      "text": " ‭— React-Native Mobile SDK, Django DRF, AWS, Firebase Cloud Messaging‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        86.87,
+        478.21,
+        412.76,
+        488.81
+      ],
+      "origin": [
+        86.87,
+        486.8
+      ]
+    },
+    {
+      "page": 0,
+      "block": 27,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        493.47,
+        41.5,
+        500.72
+      ],
+      "origin": [
+        35.78,
+        499.34
+      ]
+    },
+    {
+      "page": 0,
+      "block": 27,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        490.76,
+        44.77,
+        501.35
+      ],
+      "origin": [
+        41.5,
+        499.34
+      ]
+    },
+    {
+      "page": 0,
+      "block": 27,
+      "line": 0,
+      "span": 2,
+      "text": "‭Devised Android/iOS apps and backend for a Social Media Start-up targeting Foodies and Chefs.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        490.76,
+        454.89,
+        501.35
+      ],
+      "origin": [
+        44.77,
+        499.34
+      ]
+    },
+    {
+      "page": 0,
+      "block": 28,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        506.02,
+        41.5,
+        513.27
+      ],
+      "origin": [
+        35.78,
+        511.89
+      ]
+    },
+    {
+      "page": 0,
+      "block": 28,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        503.31,
+        44.77,
+        513.9
+      ],
+      "origin": [
+        41.5,
+        511.89
+      ]
+    },
+    {
+      "page": 0,
+      "block": 28,
+      "line": 0,
+      "span": 2,
+      "text": "‭Implemented Django channels for multi-user recipe sessions, FCM Push Notifications, and refactored to JWT Auth.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        503.31,
+        529.68,
+        513.9
+      ],
+      "origin": [
+        44.77,
+        511.89
+      ]
+    },
+    {
+      "page": 0,
+      "block": 29,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        518.57,
+        41.5,
+        525.81
+      ],
+      "origin": [
+        35.78,
+        524.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 29,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        515.85,
+        44.77,
+        526.45
+      ],
+      "origin": [
+        41.5,
+        524.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 29,
+      "line": 0,
+      "span": 2,
+      "text": "‭Hosted Django backend on AWS EC2, RDS, S3 and configured Redis on EC2 instance for channels.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        515.85,
+        470.35,
+        526.45
+      ],
+      "origin": [
+        44.77,
+        524.44
+      ]
+    },
+    {
+      "page": 0,
+      "block": 30,
+      "line": 0,
+      "span": 0,
+      "text": "‭Distributed Systems Algorithms‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        535.01,
+        182.8,
+        545.6
+      ],
+      "origin": [
+        35.78,
+        543.59
+      ]
+    },
+    {
+      "page": 0,
+      "block": 30,
+      "line": 0,
+      "span": 1,
+      "text": "‭— Go‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        182.8,
+        535.01,
+        210.2,
+        545.6
+      ],
+      "origin": [
+        182.8,
+        543.59
+      ]
+    },
+    {
+      "page": 0,
+      "block": 31,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.27,
+        550.27,
+        45.99,
+        557.51
+      ],
+      "origin": [
+        40.27,
+        556.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 31,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        45.99,
+        547.55,
+        49.26,
+        558.15
+      ],
+      "origin": [
+        45.99,
+        556.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 31,
+      "line": 0,
+      "span": 2,
+      "text": "‭Developed Leader Election and Log replication protocol to achieve RAFT consensus among peers.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        49.26,
+        547.55,
+        466.78,
+        558.15
+      ],
+      "origin": [
+        49.26,
+        556.14
+      ]
+    },
+    {
+      "page": 0,
+      "block": 32,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.27,
+        562.81,
+        45.99,
+        570.06
+      ],
+      "origin": [
+        40.27,
+        568.68
+      ]
+    },
+    {
+      "page": 0,
+      "block": 32,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        45.99,
+        560.1,
+        49.26,
+        570.69
+      ],
+      "origin": [
+        45.99,
+        568.68
+      ]
+    },
+    {
+      "page": 0,
+      "block": 32,
+      "line": 0,
+      "span": 2,
+      "text": "‭Built Chandy-Lamport algorithm to perform distributed snapshots and Map-reduce logic for parallel processing.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        49.26,
+        560.1,
+        515.23,
+        570.69
+      ],
+      "origin": [
+        49.26,
+        568.68
+      ]
+    },
+    {
+      "page": 0,
+      "block": 33,
+      "line": 0,
+      "span": 0,
+      "text": "‭Chehra‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        579.25,
+        71.09,
+        589.85
+      ],
+      "origin": [
+        35.78,
+        587.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 33,
+      "line": 0,
+      "span": 1,
+      "text": " ‭— Android, Django Rest Framework, Machine Learning‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        71.09,
+        579.25,
+        309.33,
+        589.85
+      ],
+      "origin": [
+        71.09,
+        587.84
+      ]
+    },
+    {
+      "page": 0,
+      "block": 34,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        594.51,
+        41.5,
+        601.76
+      ],
+      "origin": [
+        35.78,
+        600.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 34,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        591.8,
+        44.77,
+        602.39
+      ],
+      "origin": [
+        41.5,
+        600.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 34,
+      "line": 0,
+      "span": 2,
+      "text": "‭Captured class images & marked students’ attendance using Facial Recognition Attendance Management System.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        591.8,
+        528.68,
+        602.39
+      ],
+      "origin": [
+        44.77,
+        600.38
+      ]
+    },
+    {
+      "page": 0,
+      "block": 35,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        607.06,
+        41.5,
+        614.31
+      ],
+      "origin": [
+        35.78,
+        612.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 35,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        604.35,
+        44.77,
+        614.94
+      ],
+      "origin": [
+        41.5,
+        612.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 35,
+      "line": 0,
+      "span": 2,
+      "text": "‭Designed database schema, backend APIs, two Android clients for students & teachers, ML models (FaceNet & DLib).‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        604.35,
+        543.94,
+        614.94
+      ],
+      "origin": [
+        44.77,
+        612.93
+      ]
+    },
+    {
+      "page": 0,
+      "block": 36,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        619.61,
+        41.5,
+        626.85
+      ],
+      "origin": [
+        35.78,
+        625.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 36,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        41.5,
+        616.89,
+        44.77,
+        627.49
+      ],
+      "origin": [
+        41.5,
+        625.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 36,
+      "line": 0,
+      "span": 2,
+      "text": "‭Published Paper‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        44.77,
+        616.89,
+        121.71,
+        627.49
+      ],
+      "origin": [
+        44.77,
+        625.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 36,
+      "line": 0,
+      "span": 3,
+      "text": "‭on “Automated Facial Recognition Attendance System leveraging IoT Cameras,‬‭IEEE (8776924)‬‭“.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        121.71,
+        616.89,
+        537.08,
+        627.49
+      ],
+      "origin": [
+        121.71,
+        625.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 37,
+      "line": 0,
+      "span": 0,
+      "text": "‭SKILLS‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        638.7,
+        74.06,
+        649.86
+      ],
+      "origin": [
+        35.78,
+        647.74
+      ]
+    },
+    {
+      "page": 0,
+      "block": 38,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        661.39,
+        41.5,
+        668.63
+      ],
+      "origin": [
+        35.78,
+        667.26
+      ]
+    },
+    {
+      "page": 0,
+      "block": 38,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        658.67,
+        44.77,
+        669.27
+      ],
+      "origin": [
+        41.5,
+        667.26
+      ]
+    },
+    {
+      "page": 0,
+      "block": 38,
+      "line": 0,
+      "span": 2,
+      "text": "‭Programming — Java, Python, C, C++, Kotlin, Go, TypeScript, SQL, Bash (Linux), Javascript, NodeJs‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        658.67,
+        474.33,
+        669.27
+      ],
+      "origin": [
+        44.77,
+        667.26
+      ]
+    },
+    {
+      "page": 0,
+      "block": 39,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        673.93,
+        41.5,
+        681.18
+      ],
+      "origin": [
+        35.78,
+        679.81
+      ]
+    },
+    {
+      "page": 0,
+      "block": 39,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        671.22,
+        44.77,
+        681.82
+      ],
+      "origin": [
+        41.5,
+        679.81
+      ]
+    },
+    {
+      "page": 0,
+      "block": 39,
+      "line": 0,
+      "span": 2,
+      "text": "‭Tech Stack — Android, Spring MVC, Django, Flask, Angular, React, DB2, PostgreSQL, GraphQL, Tensorflow, Spark,‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        671.22,
+        536.02,
+        681.82
+      ],
+      "origin": [
+        44.77,
+        679.81
+      ]
+    },
+    {
+      "page": 0,
+      "block": 40,
+      "line": 0,
+      "span": 0,
+      "text": "‭Elasticsearch, Apache Kafka, Firebase, AWS, Hadoop, Docker, Matlab, Kubernetes, Git, Swagger, Gitlab, Redis‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        683.77,
+        516.7,
+        694.36
+      ],
+      "origin": [
+        44.77,
+        692.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 41,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        699.03,
+        41.5,
+        706.28
+      ],
+      "origin": [
+        35.78,
+        704.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 41,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        696.32,
+        44.77,
+        706.91
+      ],
+      "origin": [
+        41.5,
+        704.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 41,
+      "line": 0,
+      "span": 2,
+      "text": "‭Soft skills — Agile, Leadership, Attention to Detail, Decision Making, Team Player, Continuous Learning, Innovation‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        696.32,
+        529.73,
+        706.91
+      ],
+      "origin": [
+        44.77,
+        704.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 42,
+      "line": 0,
+      "span": 0,
+      "text": "‭CO-CURRICULAR‬",
+      "font": "Helvetica-Bold",
+      "source_font": "Arial-BoldMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        35.78,
+        716.19,
+        123.42,
+        727.35
+      ],
+      "origin": [
+        35.78,
+        725.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 43,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        737.63,
+        41.5,
+        744.87
+      ],
+      "origin": [
+        35.78,
+        743.5
+      ]
+    },
+    {
+      "page": 0,
+      "block": 43,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        734.46,
+        44.77,
+        745.61
+      ],
+      "origin": [
+        41.5,
+        743.5
+      ]
+    },
+    {
+      "page": 0,
+      "block": 43,
+      "line": 0,
+      "span": 2,
+      "text": "‭Research Assistant for Nuclear Medicine,‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.99,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        734.46,
+        230.68,
+        745.61
+      ],
+      "origin": [
+        44.77,
+        743.5
+      ]
+    },
+    {
+      "page": 0,
+      "block": 43,
+      "line": 0,
+      "span": 3,
+      "text": "‭Modeling an SPECT-based Computational System utilizing C++ and CuDa.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        230.68,
+        734.91,
+        548.54,
+        745.51
+      ],
+      "origin": [
+        230.68,
+        743.5
+      ]
+    },
+    {
+      "page": 0,
+      "block": 44,
+      "line": 0,
+      "span": 0,
+      "text": "‭●‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 6.49,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        35.78,
+        750.37,
+        41.5,
+        757.61
+      ],
+      "origin": [
+        35.78,
+        756.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 44,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        41.5,
+        747.65,
+        44.77,
+        758.25
+      ],
+      "origin": [
+        41.5,
+        756.24
+      ]
+    },
+    {
+      "page": 0,
+      "block": 44,
+      "line": 0,
+      "span": 2,
+      "text": "‭Teaching Assistant for Distributed Systems at Computer Science Department for Fall 2023 Semester.‬",
+      "font": "Helvetica",
+      "source_font": "ArialMT",
+      "size_pt": 9.48,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        44.77,
+        747.65,
+        471.18,
+        758.25
+      ],
+      "origin": [
+        44.77,
+        756.24
+      ]
+    }
+  ],
+  "id": "da4b5065-2b96-46a8-b029-434889cf30a7"
+}

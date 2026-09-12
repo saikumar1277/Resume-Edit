@@ -1,0 +1,714 @@
+{
+  "document": {
+    "source_file": "Kongari_Resume_removed.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 36.0,
+      "top": 33.26,
+      "right": 35.91,
+      "bottom": 64.08
+    }
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "SaiKumarKongari",
+          "font": "Times-Bold",
+          "size_pt": 24.79,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "kongarisaikumar12@gmail.com",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "⋄",
+          "font": "Times-Italic",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "+14753516754",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "⋄",
+          "font": "Times-Italic",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "linkedin.com/in/saikumar1277/",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "github.com/saikumar1277/",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Experience",
+          "font": "Times-Roman",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b5",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "SUNYBinghamton ",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Jan2025–dec2025",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "TeachingAssistant Binghamton,NY",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Assistsstudentsinclarifyingconceptsbyconductingofficehours,facilitatingthetrainingof60+students.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b8",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "GuidedstudentsinPythonprogramminglabprovidedone-on-onedebuggingandcodereviewassistance.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Assistedingradingcodingassignmentsusingautomatedtestingframeworksandversioncontrolsystemslike GitHub.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "SupportedresearchonautomatedgradingpipelinesusingPythonandBashscripting,improvinggradingefficiency by20%.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Kibu ",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Jul2025–Sep2025",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "SoftwareEngineerIntern Stamford,CT",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "BuiltSamBot,anAI-poweredcomplianceassistantthatenablesdisabilityserviceproviderstoquicklysearch, interpret,andnavigateMedicaidwaiverdocumentsthroughnaturallanguageconversations.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Developedandintegratedinteractiveclientengagementapplications,includingBingoandKaraoke,intoKibu’s CreateplatformusingNext.js,TypeScript,tRPC,ReactQuery,Prisma,andPostgreSQL.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Collaboratedwithsoftwareengineerstodesign,develop,test,anddeployfull-stackfeatures,improvingapplication performance,codequality,anduserexperienceinanAgiledevelopmentenvironment.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Contributedtocoreplatformfeatures,includingmedicalrecorddocumentation,staffscheduling,role-basedaccess control,andtaskandappointmentmanagement,enhancingoperationalworkflowsfordisabilityserviceproviders.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "CVRCollegeofEngineering ",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Aug2023–May2024",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "FullStackDeveloper Hyderabad,India",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Developedandmaintainedafull-stackplacementmanagementportalusingReact.js,Node.js,Express.js,and MongoDB,serving600+studentsandstreamliningapplicationtracking,jobpostings,andplacementworkflows.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Designedandimplementedanadmindashboardwithrole-basedaccesscontrol(RBAC)tomanage50+ mentor–menteerelationships,automateonboardingworkflows,schedulesessions,andtrackstudentprogress.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b21",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "BuiltandintegratedRESTfulAPIsandemailnotificationservices,reducingmanualadministrativeeffortby40% andimprovingcommunicationbetweenstudents,mentors,andplacementcoordinators.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Improvedapplicationreliabilityandcodequalitybyimplementingcontinuoustesting,Jenkins-basedCI/CD pipelines,andsecurityscans,reducingpost-deploymentissues.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "TechnicalSkills",
+          "font": "Times-Roman",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b25",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ProgrammingLanguages",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ":JavaScript,TypeScript,Python.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "FrontendTechnologies",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ":NextJs,ReactJs,tRPC,ReactQuery,Redux,ReactNative,TailwindCSS.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "BackendTechnologies",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ":Flask,FastAPI,Django,NodeJS,ExpressJS,Planetscale,SQL,NoSQL,Postgres,MongoDB.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b28",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "LibrariesandFrameworks:",
+          "font": "Times-Bold",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": ":OpenAISDK,AgentsSDK,GitLab,Linux,Kubernetes,Docker,AWS.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "Education",
+          "font": "Times-Roman",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b31",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "SUNYBinghamton ",
+          "font": "Times-Bold",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Binghamton,NY",
+          "font": "Times-Roman",
+          "size_pt": 10.91,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "MasterofScienceinComputerScience Aug2026",
+          "font": "Times-Italic",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "b33",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "ACHIEVEMENTS",
+          "font": "Times-Roman",
+          "size_pt": 11.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "type": "divider",
+      "width_pt": 0.4,
+      "color_hex": "#000000"
+    },
+    {
+      "id": "b35",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "WontheKMITNFScodingcompetitiontwice,consistentlyplacinginthetop5ofthecomputerscience department.",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "•",
+          "font": "Times-Italic",
+          "size_pt": 5.98,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "text": "Secured2ndplaceaspartofateamintheCodeItHackathonatCVRCollegebydevelopingareal-timeinterview preparationchatapplication",
+          "font": "Times-Roman",
+          "size_pt": 9.96,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "id": "a18a6a8b-736f-4afe-bd37-196bbf874eb8"
+}

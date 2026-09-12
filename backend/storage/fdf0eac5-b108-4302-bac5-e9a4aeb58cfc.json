@@ -1,0 +1,3476 @@
+{
+  "document": {
+    "source_file": "Sai_Kumar_Kongari_Resume-3-7.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward"
+  },
+  "layout": {
+    "divider_lines": [
+      {
+        "page": 0,
+        "x0": 28.0,
+        "y0": 67.5,
+        "x1": 584.0,
+        "y1": 67.5,
+        "width_pt": 1.0,
+        "color_hex": "#1F3864"
+      },
+      {
+        "page": 0,
+        "x0": 28.0,
+        "y0": 107.5,
+        "x1": 584.0,
+        "y1": 107.5,
+        "width_pt": 1.0,
+        "color_hex": "#1F3864"
+      },
+      {
+        "page": 0,
+        "x0": 28.0,
+        "y0": 187.5,
+        "x1": 584.0,
+        "y1": 187.5,
+        "width_pt": 1.0,
+        "color_hex": "#1F3864"
+      },
+      {
+        "page": 0,
+        "x0": 28.0,
+        "y0": 504.5,
+        "x1": 584.0,
+        "y1": 504.5,
+        "width_pt": 1.0,
+        "color_hex": "#1F3864"
+      },
+      {
+        "page": 0,
+        "x0": 28.0,
+        "y0": 697.5,
+        "x1": 584.0,
+        "y1": 697.5,
+        "width_pt": 1.0,
+        "color_hex": "#1F3864"
+      },
+      {
+        "page": 0,
+        "x0": 28.0,
+        "y0": 740.5,
+        "x1": 584.0,
+        "y1": 740.5,
+        "width_pt": 1.0,
+        "color_hex": "#1F3864"
+      }
+    ]
+  },
+  "raw_elements": [
+    {
+      "page": 0,
+      "block": 0,
+      "line": 0,
+      "span": 0,
+      "text": "SAI KUMAR KONGARI",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 18,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        207.5,
+        19.76,
+        404.5,
+        39.7
+      ],
+      "origin": [
+        207.5,
+        35.8
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        404.5,
+        26,
+        407.25,
+        38.18
+      ],
+      "origin": [
+        404.5,
+        35.8
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 0,
+      "text": "kongarisaikumar12@gmail.com  |  +1 475 351 6754  |  linkedin.com/in/saikumar1277  |  github.com/saikumar1277",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        98.89,
+        40.83,
+        513.12,
+        50.8
+      ],
+      "origin": [
+        98.89,
+        48.85
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 1,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        513.11,
+        39.05,
+        515.86,
+        51.23
+      ],
+      "origin": [
+        513.11,
+        48.85
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 2,
+      "span": 0,
+      "text": "SUMMARY",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 11,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        53.76,
+        86.23,
+        65.95
+      ],
+      "origin": [
+        28,
+        63.57
+      ]
+    },
+    {
+      "page": 0,
+      "block": 0,
+      "line": 2,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        86.23,
+        53.76,
+        88.98,
+        65.95
+      ],
+      "origin": [
+        86.23,
+        63.57
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 0,
+      "text": "Full-stack engineer who ships AI-powered products",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        69.15,
+        225.93,
+        79.12
+      ],
+      "origin": [
+        28,
+        77.17
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 0,
+      "span": 1,
+      "text": " – built and deployed RAG-based tools (compliance search, mock interviews, resume generation) ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        225.93,
+        69.15,
+        578.58,
+        79.12
+      ],
+      "origin": [
+        225.93,
+        77.17
+      ]
+    },
+    {
+      "page": 0,
+      "block": 1,
+      "line": 1,
+      "span": 0,
+      "text": "using Next.js, TypeScript, Python, and OpenAI's SDK.  ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        79.29,
+        230.23,
+        89.25
+      ],
+      "origin": [
+        28,
+        87.31
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 0,
+      "span": 0,
+      "text": "TECHNICAL SKILLS",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 11,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        94.68,
+        137.04,
+        106.86
+      ],
+      "origin": [
+        28,
+        104.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        137.04,
+        94.68,
+        139.79,
+        106.86
+      ],
+      "origin": [
+        137.04,
+        104.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 1,
+      "span": 0,
+      "text": "Languages: ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        110.29,
+        79.93,
+        121.36
+      ],
+      "origin": [
+        28,
+        119.2
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 1,
+      "span": 1,
+      "text": "JavaScript, TypeScript, Python, Java, SQL",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        79.93,
+        110.29,
+        226.38,
+        121.36
+      ],
+      "origin": [
+        79.93,
+        119.2
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 1,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        226.37,
+        109.4,
+        229.12,
+        121.58
+      ],
+      "origin": [
+        226.37,
+        119.2
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 2,
+      "span": 0,
+      "text": "Frontend: ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        122.19,
+        73.63,
+        133.26
+      ],
+      "origin": [
+        28,
+        131.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 2,
+      "span": 1,
+      "text": "React.js, Next.js, React Native, Redux, tRPC, React Query, Tailwind CSS",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        73.63,
+        122.19,
+        369.07,
+        133.26
+      ],
+      "origin": [
+        73.63,
+        131.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 2,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        369.07,
+        121.29,
+        371.82,
+        133.48
+      ],
+      "origin": [
+        369.07,
+        131.1
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 3,
+      "span": 0,
+      "text": "Backend & DB: ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        134.09,
+        98.26,
+        145.16
+      ],
+      "origin": [
+        28,
+        143
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 3,
+      "span": 1,
+      "text": "Node.js, Express.js, FastAPI, Flask, Django, PostgreSQL, MongoDB, PlanetScale",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        98.26,
+        134.09,
+        427.01,
+        145.16
+      ],
+      "origin": [
+        98.26,
+        143
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 3,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        427,
+        133.19,
+        429.75,
+        145.38
+      ],
+      "origin": [
+        427,
+        143
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 4,
+      "span": 0,
+      "text": "AI / ML: ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        145.98,
+        68.82,
+        157.06
+      ],
+      "origin": [
+        28,
+        154.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 4,
+      "span": 1,
+      "text": "OpenAI SDK, Agents SDK, Retrieval-Augmented Generation (RAG), Prompt Engineering",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        68.81,
+        145.98,
+        433.88,
+        157.06
+      ],
+      "origin": [
+        68.81,
+        154.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 4,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        433.88,
+        145.09,
+        436.63,
+        157.27
+      ],
+      "origin": [
+        433.88,
+        154.9
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 5,
+      "span": 0,
+      "text": "Cloud & DevOps: ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        157.88,
+        107.14,
+        168.96
+      ],
+      "origin": [
+        28,
+        166.79
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 5,
+      "span": 1,
+      "text": "AWS, GCP, Docker, Kubernetes, Jenkins CI/CD, Git, Linux",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        107.14,
+        157.88,
+        347.22,
+        168.96
+      ],
+      "origin": [
+        107.14,
+        166.79
+      ]
+    },
+    {
+      "page": 0,
+      "block": 2,
+      "line": 5,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        347.22,
+        156.99,
+        349.97,
+        169.17
+      ],
+      "origin": [
+        347.22,
+        166.79
+      ]
+    },
+    {
+      "page": 0,
+      "block": 3,
+      "line": 0,
+      "span": 0,
+      "text": "EXPERIENCE",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 11,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        174.42,
+        100.08,
+        186.61
+      ],
+      "origin": [
+        28,
+        184.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 3,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        100.07,
+        174.42,
+        102.82,
+        186.61
+      ],
+      "origin": [
+        100.07,
+        184.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 0,
+      "span": 0,
+      "text": "Software Engineer Intern | Kibu                                                                                                                              ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10.5,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        191.05,
+        503.79,
+        202.68
+      ],
+      "origin": [
+        28,
+        200.41
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 0,
+      "span": 1,
+      "text": "Jul 2025 – Sep 2025",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        503.79,
+        192.39,
+        579.3,
+        202.36
+      ],
+      "origin": [
+        503.79,
+        200.41
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 0,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        579.3,
+        190.61,
+        582.05,
+        202.79
+      ],
+      "origin": [
+        579.3,
+        200.41
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 1,
+      "span": 0,
+      "text": "Stamford, CT",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        28,
+        203.26,
+        76.18,
+        213.23
+      ],
+      "origin": [
+        28,
+        211.28
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 1,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        76.18,
+        201.48,
+        78.93,
+        213.66
+      ],
+      "origin": [
+        76.18,
+        211.28
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 2,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        213.98,
+        34.6,
+        226.16
+      ],
+      "origin": [
+        28,
+        223.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 2,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        214.87,
+        40.75,
+        225.95
+      ],
+      "origin": [
+        34.6,
+        223.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 2,
+      "span": 2,
+      "text": "Built Sam Bot, an AI-powered compliance assistant using RAG and natural-language search, cutting the time disability-service ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        214.87,
+        552.08,
+        225.95
+      ],
+      "origin": [
+        40.75,
+        223.78
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 3,
+      "span": 0,
+      "text": "providers spend interpreting Medicaid waiver documents from hours to seconds.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        226.35,
+        362.77,
+        237.42
+      ],
+      "origin": [
+        40.75,
+        235.26
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 3,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        362.77,
+        225.45,
+        365.52,
+        237.64
+      ],
+      "origin": [
+        362.77,
+        235.26
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 4,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        238.03,
+        34.6,
+        250.21
+      ],
+      "origin": [
+        28,
+        247.83
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 4,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        238.92,
+        40.75,
+        249.99
+      ],
+      "origin": [
+        34.6,
+        247.83
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 4,
+      "span": 2,
+      "text": "Shipped Bingo and Karaoke, two interactive client-engagement features on Kibu's Create platform, using Next.js, TypeScript, tRPC, ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        238.92,
+        573.18,
+        249.99
+      ],
+      "origin": [
+        40.75,
+        247.83
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 5,
+      "span": 0,
+      "text": "React Query, Prisma, and PostgreSQL.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        250.39,
+        196.4,
+        261.46
+      ],
+      "origin": [
+        40.75,
+        259.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 5,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        196.4,
+        249.5,
+        199.15,
+        261.68
+      ],
+      "origin": [
+        196.4,
+        259.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 6,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        262.07,
+        34.6,
+        274.25
+      ],
+      "origin": [
+        28,
+        271.87
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 6,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        262.96,
+        40.75,
+        274.04
+      ],
+      "origin": [
+        34.6,
+        271.87
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 6,
+      "span": 2,
+      "text": "Partnered with cross-functional engineers in an Agile workflow to design, test, and deploy full-stack features, improving application ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        262.96,
+        572.62,
+        274.04
+      ],
+      "origin": [
+        40.75,
+        271.87
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 7,
+      "span": 0,
+      "text": "performance and user experience.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        274.43,
+        175.62,
+        285.51
+      ],
+      "origin": [
+        40.75,
+        283.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 7,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        175.62,
+        273.54,
+        178.37,
+        285.73
+      ],
+      "origin": [
+        175.62,
+        283.35
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 8,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        286.12,
+        34.6,
+        298.3
+      ],
+      "origin": [
+        28,
+        295.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 8,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        287.01,
+        40.75,
+        298.08
+      ],
+      "origin": [
+        34.6,
+        295.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 8,
+      "span": 2,
+      "text": "Delivered core platform capabilities – medical record documentation, staff scheduling, RBAC, and appointment management — ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        287.01,
+        557.43,
+        298.08
+      ],
+      "origin": [
+        40.75,
+        295.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 9,
+      "span": 0,
+      "text": "streamlining daily operations for disability service providers.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        298.48,
+        284.76,
+        309.55
+      ],
+      "origin": [
+        40.75,
+        307.39
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 9,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        284.76,
+        297.59,
+        287.51,
+        309.77
+      ],
+      "origin": [
+        284.76,
+        307.39
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 10,
+      "span": 0,
+      "text": "Teaching Assistant | SUNY Binghamton                                                                                                                 ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10.5,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        312.45,
+        502.76,
+        324.08
+      ],
+      "origin": [
+        28,
+        321.81
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 10,
+      "span": 1,
+      "text": "Jan 2025 – Dec 2025",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        502.76,
+        313.79,
+        580.75,
+        323.76
+      ],
+      "origin": [
+        502.76,
+        321.81
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 10,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        580.75,
+        312.01,
+        583.5,
+        324.19
+      ],
+      "origin": [
+        580.75,
+        321.81
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 11,
+      "span": 0,
+      "text": "Binghamton, NY",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        28,
+        324.67,
+        87.51,
+        334.63
+      ],
+      "origin": [
+        28,
+        332.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 11,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        87.51,
+        322.88,
+        90.26,
+        335.06
+      ],
+      "origin": [
+        87.51,
+        332.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 12,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        335.39,
+        34.6,
+        347.57
+      ],
+      "origin": [
+        28,
+        345.19
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 12,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        336.28,
+        40.75,
+        347.35
+      ],
+      "origin": [
+        34.6,
+        345.19
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 12,
+      "span": 2,
+      "text": "Delivered weekly office hours and 1:1 debugging support in Python programming labs to 60+ students, improving lab completion and ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        336.28,
+        579.8,
+        347.35
+      ],
+      "origin": [
+        40.75,
+        345.19
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 13,
+      "span": 0,
+      "text": "comprehension.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        347.75,
+        104.32,
+        358.82
+      ],
+      "origin": [
+        40.75,
+        356.66
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 13,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        104.32,
+        346.86,
+        107.07,
+        359.04
+      ],
+      "origin": [
+        104.32,
+        356.66
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 14,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        359.43,
+        34.6,
+        371.61
+      ],
+      "origin": [
+        28,
+        369.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 14,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        360.32,
+        40.75,
+        371.4
+      ],
+      "origin": [
+        34.6,
+        369.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 14,
+      "span": 2,
+      "text": "Automated grading pipelines with Python and Bash scripting, increasing grading efficiency by 20% across course sections.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        360.32,
+        532.76,
+        371.4
+      ],
+      "origin": [
+        40.75,
+        369.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 14,
+      "span": 3,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        532.76,
+        359.43,
+        535.51,
+        371.61
+      ],
+      "origin": [
+        532.76,
+        369.23
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 15,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        372.22,
+        34.6,
+        384.4
+      ],
+      "origin": [
+        28,
+        382.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 15,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        373.11,
+        40.75,
+        384.18
+      ],
+      "origin": [
+        34.6,
+        382.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 15,
+      "span": 2,
+      "text": "Graded coding assignments using automated testing frameworks and Git-based version control workflows.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        373.11,
+        467.71,
+        384.18
+      ],
+      "origin": [
+        40.75,
+        382.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 15,
+      "span": 3,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        467.71,
+        372.22,
+        470.46,
+        384.4
+      ],
+      "origin": [
+        467.71,
+        382.02
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 16,
+      "span": 0,
+      "text": "Full Stack Developer | CVR College of Engineering                                                                                           ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10.5,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        387.29,
+        495.79,
+        398.92
+      ],
+      "origin": [
+        28,
+        396.65
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 16,
+      "span": 1,
+      "text": "Aug 2023 – May 2024",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        495.79,
+        388.63,
+        578.79,
+        398.6
+      ],
+      "origin": [
+        495.79,
+        396.65
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 16,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        578.79,
+        386.85,
+        581.54,
+        399.03
+      ],
+      "origin": [
+        578.79,
+        396.65
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 17,
+      "span": 0,
+      "text": "Hyderabad, India",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        28,
+        399.5,
+        91.99,
+        409.47
+      ],
+      "origin": [
+        28,
+        407.52
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 17,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        91.99,
+        397.72,
+        94.74,
+        409.9
+      ],
+      "origin": [
+        91.99,
+        407.52
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 18,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        410.22,
+        34.6,
+        422.41
+      ],
+      "origin": [
+        28,
+        420.03
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 18,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        411.12,
+        40.75,
+        422.19
+      ],
+      "origin": [
+        34.6,
+        420.03
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 18,
+      "span": 2,
+      "text": "Engineered a full-stack placement management portal (React.js, Node.js, Express.js, MongoDB) used by 600+ students to track ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        411.12,
+        553.84,
+        422.19
+      ],
+      "origin": [
+        40.75,
+        420.03
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 19,
+      "span": 0,
+      "text": "applications and job postings. adding new lline",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        422.59,
+        159.58,
+        433.66
+      ],
+      "origin": [
+        40.75,
+        431.5
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 19,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        159.58,
+        421.7,
+        162.33,
+        433.88
+      ],
+      "origin": [
+        159.58,
+        431.5
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 20,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        434.27,
+        34.6,
+        446.45
+      ],
+      "origin": [
+        28,
+        444.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 20,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        435.16,
+        40.75,
+        446.23
+      ],
+      "origin": [
+        34.6,
+        444.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 20,
+      "span": 2,
+      "text": "Built an RBAC-enabled admin dashboard managing 50+ mentor-mentee relationships, automating onboarding and session scheduling.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        435.16,
+        578.93,
+        446.23
+      ],
+      "origin": [
+        40.75,
+        444.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 20,
+      "span": 3,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        578.93,
+        434.27,
+        581.68,
+        446.45
+      ],
+      "origin": [
+        578.93,
+        444.07
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 21,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        447.05,
+        34.6,
+        459.24
+      ],
+      "origin": [
+        28,
+        456.86
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 21,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        447.95,
+        40.75,
+        459.02
+      ],
+      "origin": [
+        34.6,
+        456.86
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 21,
+      "span": 2,
+      "text": "Reduced manual administrative effort by 40% by building RESTful APIs and automated email notification services.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        447.95,
+        505.55,
+        459.02
+      ],
+      "origin": [
+        40.75,
+        456.86
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 21,
+      "span": 3,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        505.55,
+        447.05,
+        508.3,
+        459.24
+      ],
+      "origin": [
+        505.55,
+        456.86
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 22,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        460.01,
+        34,
+        471.09
+      ],
+      "origin": [
+        28,
+        468.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 22,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34,
+        460.01,
+        40.75,
+        471.09
+      ],
+      "origin": [
+        34,
+        468.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 22,
+      "span": 2,
+      "text": "Improved application reliability and code quality by implementing continuous testing, Jenkins-based CI/CD pipelines, and security ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        460.01,
+        567.38,
+        471.09
+      ],
+      "origin": [
+        40.75,
+        468.92
+      ]
+    },
+    {
+      "page": 0,
+      "block": 4,
+      "line": 23,
+      "span": 0,
+      "text": "scans, reducing post-deployment issues. ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        473.24,
+        203.44,
+        484.31
+      ],
+      "origin": [
+        40.75,
+        482.15
+      ]
+    },
+    {
+      "page": 0,
+      "block": 5,
+      "line": 0,
+      "span": 0,
+      "text": "PROJECTS",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 11,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        491.5,
+        85.42,
+        503.68
+      ],
+      "origin": [
+        28,
+        501.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 5,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        85.41,
+        491.5,
+        88.16,
+        503.68
+      ],
+      "origin": [
+        85.41,
+        501.3
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 0,
+      "span": 0,
+      "text": "Memic – AI Resume Writing Assistant",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10.5,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        508.13,
+        200.74,
+        519.76
+      ],
+      "origin": [
+        28,
+        517.49
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 0,
+      "span": 1,
+      "text": "  |  Next.js, TypeScript, PostgreSQL, Prisma, OpenAI API",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        200.75,
+        509.47,
+        407.2,
+        519.43
+      ],
+      "origin": [
+        200.75,
+        517.49
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 0,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        407.19,
+        507.68,
+        409.94,
+        519.87
+      ],
+      "origin": [
+        407.19,
+        517.49
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 1,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        520.21,
+        34.6,
+        532.39
+      ],
+      "origin": [
+        28,
+        530.01
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 1,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        521.1,
+        40.75,
+        532.18
+      ],
+      "origin": [
+        34.6,
+        530.01
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 1,
+      "span": 2,
+      "text": "Developed",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        521.1,
+        84.05,
+        532.18
+      ],
+      "origin": [
+        40.75,
+        530.01
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 1,
+      "span": 3,
+      "text": " a context-aware AI editing engine that preserves resume structure while applying natural-language edits in real time, similar ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        84.05,
+        521.1,
+        585.62,
+        532.18
+      ],
+      "origin": [
+        84.05,
+        530.01
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 2,
+      "span": 0,
+      "text": "to AI-assisted coding tools like Cursor.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        532.57,
+        196.79,
+        543.65
+      ],
+      "origin": [
+        40.75,
+        541.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 2,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        196.79,
+        531.68,
+        199.54,
+        543.86
+      ],
+      "origin": [
+        196.79,
+        541.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 3,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        544.26,
+        34.6,
+        556.44
+      ],
+      "origin": [
+        28,
+        554.06
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 3,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        545.15,
+        40.75,
+        556.22
+      ],
+      "origin": [
+        34.6,
+        554.06
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 3,
+      "span": 2,
+      "text": "Integrated RAG and prompt-engineering techniques to generate ATS-optimized, personalized content; implemented auth, resume ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        545.15,
+        560.1,
+        556.22
+      ],
+      "origin": [
+        40.75,
+        554.06
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 4,
+      "span": 0,
+      "text": "versioning, and PDF export.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        556.62,
+        153.75,
+        567.69
+      ],
+      "origin": [
+        40.75,
+        565.53
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 4,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        153.75,
+        555.73,
+        156.5,
+        567.91
+      ],
+      "origin": [
+        153.75,
+        565.53
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 5,
+      "span": 0,
+      "text": "InterviewIQ – AI-Powered Mock Interview Platform",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10.5,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        570.59,
+        264.88,
+        582.22
+      ],
+      "origin": [
+        28,
+        579.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 5,
+      "span": 1,
+      "text": "  |  Next.js, TypeScript, PostgreSQL, OpenAI API",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        264.87,
+        571.93,
+        440.82,
+        581.9
+      ],
+      "origin": [
+        264.87,
+        579.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 5,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        440.81,
+        570.15,
+        443.56,
+        582.33
+      ],
+      "origin": [
+        440.81,
+        579.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 6,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        582.67,
+        34.6,
+        594.86
+      ],
+      "origin": [
+        28,
+        592.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 6,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        583.57,
+        40.75,
+        594.64
+      ],
+      "origin": [
+        34.6,
+        592.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 6,
+      "span": 2,
+      "text": "Engineered a real-time conversational tool combining Speech-to-Text, Text-to-Speech, and streaming LLM responses to ask ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        583.57,
+        540.11,
+        594.64
+      ],
+      "origin": [
+        40.75,
+        592.48
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 7,
+      "span": 0,
+      "text": "context-aware follow-up questions.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        595.04,
+        182.04,
+        606.11
+      ],
+      "origin": [
+        40.75,
+        603.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 7,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        182.04,
+        594.15,
+        184.79,
+        606.33
+      ],
+      "origin": [
+        182.04,
+        603.95
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 8,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        606.72,
+        34.6,
+        618.9
+      ],
+      "origin": [
+        28,
+        616.52
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 8,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        607.61,
+        40.75,
+        618.68
+      ],
+      "origin": [
+        34.6,
+        616.52
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 8,
+      "span": 2,
+      "text": "Built a RAG-based evaluation pipeline with conversation memory, delivering personalized post-interview feedback.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        607.61,
+        505.06,
+        618.68
+      ],
+      "origin": [
+        40.75,
+        616.52
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 8,
+      "span": 3,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        505.06,
+        606.72,
+        507.81,
+        618.9
+      ],
+      "origin": [
+        505.06,
+        616.52
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 9,
+      "span": 0,
+      "text": "Job Router – Government Job Search App",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10.5,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        621.8,
+        219.72,
+        633.42
+      ],
+      "origin": [
+        28,
+        631.15
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 9,
+      "span": 1,
+      "text": "  |  Ember.js, React Native, Node.js, Firebase, GCP",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        219.72,
+        623.13,
+        403.59,
+        633.1
+      ],
+      "origin": [
+        219.72,
+        631.15
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 9,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        403.59,
+        621.35,
+        406.34,
+        633.53
+      ],
+      "origin": [
+        403.59,
+        631.15
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 10,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        634.75,
+        33.4,
+        644.71
+      ],
+      "origin": [
+        28,
+        642.77
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 10,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#262626",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        33.4,
+        633.86,
+        40.75,
+        644.93
+      ],
+      "origin": [
+        33.4,
+        642.77
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 10,
+      "span": 2,
+      "text": "Created Job Router, a cross-platform app helping government job seekers discover and track relevant postings in real time, with ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#262626",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        633.86,
+        554.17,
+        644.93
+      ],
+      "origin": [
+        40.75,
+        642.77
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 11,
+      "span": 0,
+      "text": "automated notifications driving a 30% lift in user engagement.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#262626",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        645.11,
+        290.86,
+        656.19
+      ],
+      "origin": [
+        40.75,
+        654.03
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 11,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        290.86,
+        646.01,
+        293.11,
+        655.97
+      ],
+      "origin": [
+        290.86,
+        654.03
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 12,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        657.67,
+        33.4,
+        667.63
+      ],
+      "origin": [
+        28,
+        665.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 12,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        33.4,
+        656.77,
+        40.75,
+        667.85
+      ],
+      "origin": [
+        33.4,
+        665.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 12,
+      "span": 2,
+      "text": "Architected secure, scalable backend infrastructure on Google Cloud Platform, implementing JWT-based authentication and AES-256 ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        656.77,
+        579.45,
+        667.85
+      ],
+      "origin": [
+        40.75,
+        665.69
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 13,
+      "span": 0,
+      "text": "encryption to protect user data and job-application records.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        668.03,
+        276.68,
+        679.11
+      ],
+      "origin": [
+        40.75,
+        676.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 6,
+      "line": 13,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        276.68,
+        668.92,
+        278.93,
+        678.89
+      ],
+      "origin": [
+        276.68,
+        676.94
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 0,
+      "span": 0,
+      "text": "EDUCATION",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 11,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        684.53,
+        94.37,
+        696.71
+      ],
+      "origin": [
+        28,
+        694.33
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        94.37,
+        684.53,
+        97.12,
+        696.71
+      ],
+      "origin": [
+        94.37,
+        694.33
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 1,
+      "span": 0,
+      "text": "SUNY Binghamton – Master of Science in Computer Science                                                                                         ",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        700.14,
+        509.73,
+        711.21
+      ],
+      "origin": [
+        28,
+        709.05
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 1,
+      "span": 1,
+      "text": "Expected Dec 2026",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        509.73,
+        701.03,
+        580.2,
+        710.99
+      ],
+      "origin": [
+        509.73,
+        709.05
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 1,
+      "span": 2,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        580.2,
+        699.25,
+        582.95,
+        711.43
+      ],
+      "origin": [
+        580.2,
+        709.05
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 2,
+      "span": 0,
+      "text": "Binghamton, NY",
+      "font": "Times-Italic",
+      "source_font": "TimesNewRomanPS-ItalicMT",
+      "size_pt": 9,
+      "color_hex": "#555555",
+      "bold": false,
+      "italic": true,
+      "bbox": [
+        28,
+        711.74,
+        87.51,
+        721.71
+      ],
+      "origin": [
+        28,
+        719.76
+      ]
+    },
+    {
+      "page": 0,
+      "block": 7,
+      "line": 2,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        87.51,
+        709.96,
+        90.26,
+        722.14
+      ],
+      "origin": [
+        87.51,
+        719.76
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 0,
+      "span": 0,
+      "text": "ACHIEVEMENTS",
+      "font": "Times-Bold",
+      "source_font": "TimesNewRomanPS-BoldMT",
+      "size_pt": 11,
+      "color_hex": "#1F3864",
+      "bold": true,
+      "italic": false,
+      "bbox": [
+        28,
+        727.18,
+        118.4,
+        739.36
+      ],
+      "origin": [
+        28,
+        736.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 0,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        118.4,
+        727.18,
+        121.15,
+        739.36
+      ],
+      "origin": [
+        118.4,
+        736.98
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 1,
+      "span": 0,
+      "text": "•​",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        28,
+        742.61,
+        34.6,
+        754.79
+      ],
+      "origin": [
+        28,
+        752.41
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 1,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        34.6,
+        743.5,
+        40.75,
+        754.58
+      ],
+      "origin": [
+        34.6,
+        752.41
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 1,
+      "span": 2,
+      "text": "Won the KMIT NFS coding competition twice (top 5 in the Computer Science department) and placed 2nd at the CodeIt Hackathon for ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        743.5,
+        584.59,
+        754.58
+      ],
+      "origin": [
+        40.75,
+        752.41
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 2,
+      "span": 0,
+      "text": "a real-time interview-prep chat app.",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 10,
+      "color_hex": "#333333",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        40.75,
+        754.97,
+        183.68,
+        766.05
+      ],
+      "origin": [
+        40.75,
+        763.89
+      ]
+    },
+    {
+      "page": 0,
+      "block": 8,
+      "line": 2,
+      "span": 1,
+      "text": " ",
+      "font": "Times-Roman",
+      "source_font": "TimesNewRomanPSMT",
+      "size_pt": 11,
+      "color_hex": "#000000",
+      "bold": false,
+      "italic": false,
+      "bbox": [
+        183.68,
+        754.08,
+        186.43,
+        766.27
+      ],
+      "origin": [
+        183.68,
+        763.89
+      ]
+    }
+  ],
+  "id": "fdf0eac5-b108-4302-bac5-e9a4aeb58cfc"
+}

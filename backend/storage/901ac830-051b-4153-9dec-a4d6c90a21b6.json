@@ -1,0 +1,1076 @@
+{
+  "document": {
+    "source_file": "TejasBhitle_Resume 2.pdf.pdf",
+    "page_count": 1,
+    "page_size_pt": {
+      "width": 612.0,
+      "height": 792.0
+    },
+    "units": "points (1/72 inch); origin top-left, y increases downward"
+  },
+  "blocks": [
+    {
+      "id": "b0",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Tejas Bhitle‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 15.98,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭tejasgaj@buffalo.edu‬",
+          "font": "Helvetica",
+          "size_pt": 8.99,
+          "color_hex": "#1155CC",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭•‬",
+          "font": "Helvetica",
+          "size_pt": 8.49,
+          "color_hex": "#2E3C4F",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " ‭linkedin/tejasbhitle‬",
+          "font": "Helvetica",
+          "size_pt": 8.99,
+          "color_hex": "#1155CC",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭•‬",
+          "font": "Helvetica",
+          "size_pt": 8.49,
+          "color_hex": "#2E3C4F",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭tejasbhitle.github.io‬",
+          "font": "Helvetica",
+          "size_pt": 8.99,
+          "color_hex": "#1155CC",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " ‭•‬",
+          "font": "Helvetica",
+          "size_pt": 8.49,
+          "color_hex": "#2E3C4F",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭github/TejasBhitle‬",
+          "font": "Helvetica",
+          "size_pt": 8.99,
+          "color_hex": "#1155CC",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " ‭•‬",
+          "font": "Helvetica",
+          "size_pt": 8.49,
+          "color_hex": "#2E3C4F",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭leetcode/TejasBhitle‬",
+          "font": "Helvetica",
+          "size_pt": 8.99,
+          "color_hex": "#1155CC",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭•‬",
+          "font": "Helvetica",
+          "size_pt": 8.49,
+          "color_hex": "#2E3C4F",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": " ‭New York‬",
+          "font": "Helvetica",
+          "size_pt": 8.99,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭PROFESSIONAL EXPERIENCE‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.99,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Morgan Stanley‬‭— Senior Software Developer‬ ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭Mumbai‬‭|‬‭June 2021 — July 2022‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Engineered a high-performance reconciliation platform handling 10 million records‬‭daily, based on Spring,‬‭Angular, and DB2.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Modeled tasks (translations, lookups, filters, etc.) of workflow as a Directed Acyclic Graph and wrote a custom Topological‬ ",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Sort Algorithm for ordering those API calls, improving workflow runtime by 65%.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Enhanced production job management and auditing by standardizing over 15000 jobs on Autosys with Python/Bash scripts.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Barclays‬‭— Software Developer‬ ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭Pune‬‭|‬‭July 2019 — June 2021‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b8",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Managed project of multiple trade engines & services leveraging Spring, improving MIFID-2 reporting SLA by 20%.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b9",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Migrated messaging infrastructure to Kafka across services, decoupled 3 major gradle projects, & automated testing.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Automated VoltDB deployment on Unix/Windows servers with Bash/Batch scripting, reducing manual work by 80%.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Compiled & configured CI/CD pipelines via Jenkins & Bash scripts to streamline software builds and deployment.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b12",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Recognized with Barclays Recognition Program Award for end-to-end delivery of a Spring Batch workflow within 3 weeks.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b13",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Contributed to team growth by conducting interviews in recruitment drives and training 4 new hires.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Morgan Stanley‬‭— SDE Intern‬ ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭Mumbai‬‭|‬‭May 2018 — July‬‭2018‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Revamped the ETP platform in Angular/Ionic, enabling seamless mobile user experience for Institutional Securities Business.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Streamlined live data handling with RxJS and lazily loaded UI components, leading to a 70% reduction in start-up time.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Toast‬‭— Android Intern‬ ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭Remote‬‭|‬‭May 2017 — October 2017‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Spearheaded a team of 3 in making an Android app that allows users to discover and join parties nearby.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Leveraged Google Maps API to geo-fence and display nearby party locations, and integrated Stripe Payment API.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Created MVVM architecture and custom view components for feed, party hosting, and party joining screens.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b21",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭EDUCATION‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.99,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭University at Buffalo, The State University of New York‬ ",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭(Expected) December 2023‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Master of Science in Computer Science and Engineering —  3.81/4.0‬ ",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭New York, US‬ ",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Relevant Coursework — Distributed Systems, Operating Systems, Algorithms, Blockchain, Machine Learning‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭University of Mumbai‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭(Sardar Patel Institute of Technology)‬ ",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭May 2019‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Bachelor of Engineering in Computer Science —  8.4/10‬ ",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Mumbai, IN‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭PROJECTS‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.99,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭FoodCourt‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ‭— React-Native Mobile SDK, Django DRF, AWS, Firebase Cloud Messaging‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b28",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Devised Android/iOS apps and backend for a Social Media Start-up targeting Foodies and Chefs.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Implemented Django channels for multi-user recipe sessions, FCM Push Notifications, and refactored to JWT Auth.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Hosted Django backend on AWS EC2, RDS, S3 and configured Redis on EC2 instance for channels.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Distributed Systems Algorithms‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭— Go‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Developed Leader Election and Log replication protocol to achieve RAFT consensus among peers.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b33",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Built Chandy-Lamport algorithm to perform distributed snapshots and Map-reduce logic for parallel processing.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭Chehra‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ‭— Android, Django Rest Framework, Machine Learning‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Captured class images & marked students’ attendance using Facial Recognition Attendance Management System.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b36",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Designed database schema, backend APIs, two Android clients for students & teachers, ML models (FaceNet & DLib).‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b37",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Published Paper‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "‭on “Automated Facial Recognition Attendance System leveraging IoT Cameras,‬‭IEEE (8776924)‬‭“.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b38",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭SKILLS‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.99,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b39",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Programming — Java, Python, C, C++, Kotlin, Go, TypeScript, SQL, Bash (Linux), Javascript, NodeJs‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b40",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Tech Stack — Android, Spring MVC, Django, Flask, Angular, React, DB2, PostgreSQL, GraphQL, Tensorflow, Spark,‬ ",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Elasticsearch, Apache Kafka, Firebase, AWS, Hadoop, Docker, Matlab, Kubernetes, Git, Swagger, Gitlab, Redis‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b41",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Soft skills — Agile, Leadership, Attention to Detail, Decision Making, Team Player, Continuous Learning, Innovation‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b42",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭CO-CURRICULAR‬",
+          "font": "Helvetica-Bold",
+          "size_pt": 9.99,
+          "color_hex": "#000000",
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b43",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Research Assistant for Nuclear Medicine,‬",
+          "font": "Helvetica",
+          "size_pt": 9.99,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Modeling an SPECT-based Computational System utilizing C++ and CuDa.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "b44",
+      "page": 0,
+      "runs": [
+        {
+          "text": "‭●‬",
+          "font": "Helvetica",
+          "size_pt": 6.49,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "‭Teaching Assistant for Distributed Systems at Computer Science Department for Fall 2023 Semester.‬",
+          "font": "Helvetica",
+          "size_pt": 9.48,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ],
+  "id": "901ac830-051b-4153-9dec-a4d6c90a21b6"
+}
