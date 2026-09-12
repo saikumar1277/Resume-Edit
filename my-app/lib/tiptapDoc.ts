@@ -1,5 +1,11 @@
 import type { JSONContent } from "@tiptap/core";
-import type { Block, DividerBlock, ParagraphBlock, Run } from "./types";
+import type {
+  Block,
+  DividerBlock,
+  ParagraphAlign,
+  ParagraphBlock,
+  Run,
+} from "./types";
 
 export function cssFont(font: string): string {
   if (font.startsWith("Times")) return '"Times New Roman", Times, serif';
@@ -52,7 +58,45 @@ function runToTextNode(run: Run): JSONContent | null {
   ];
   if (run.bold) marks.push({ type: "bold" });
   if (run.italic) marks.push({ type: "italic" });
+  if (run.underline) marks.push({ type: "underline" });
   return { type: "text", text: run.text, marks };
+}
+
+const FALLBACK_RUN: Run = {
+  text: "",
+  font: "Helvetica",
+  size_pt: 10,
+  color_hex: "#000000",
+  bold: false,
+  italic: false,
+  underline: false,
+};
+
+/**
+ * The run carrying most of a block's text - the style a rewritten line
+ * should inherit. Taking the first run instead would bold whole bullets,
+ * since they often open with a short bold hook phrase.
+ */
+export function dominantRun(block: Block | undefined): Run {
+  if (!block || block.type === "divider" || block.runs.length === 0) {
+    return FALLBACK_RUN;
+  }
+  return block.runs.reduce((best, run) =>
+    run.text.length > best.text.length ? run : best,
+  );
+}
+
+/** Assistant replies mark bold with **, matching how we show it the resume. */
+export function boldMarkedTextNodes(text: string, style: Run): JSONContent[] {
+  return text
+    .split("**")
+    .map((segment, index) => ({
+      ...style,
+      text: segment,
+      bold: style.bold || index % 2 === 1,
+    }))
+    .map(runToTextNode)
+    .filter((node): node is JSONContent => node !== null);
 }
 
 export function blocksToTiptap(blocks: Block[]): JSONContent {
@@ -77,6 +121,7 @@ export function blocksToTiptap(blocks: Block[]): JSONContent {
       attrs: {
         blockId: block.id,
         blockType: block.type,
+        textAlign: block.align || "left",
       },
       ...(textNodes.length > 0 ? { content: textNodes } : {}),
     };
@@ -94,6 +139,7 @@ function runFromTextNode(node: JSONContent): Run {
   const style = marks.find((mark) => mark.type === "textStyle")?.attrs ?? {};
   const bold = marks.some((mark) => mark.type === "bold");
   const italic = marks.some((mark) => mark.type === "italic");
+  const underline = marks.some((mark) => mark.type === "underline");
   return {
     text: node.text ?? "",
     font: pdfFont(style.fontFamily, bold, italic),
@@ -101,7 +147,13 @@ function runFromTextNode(node: JSONContent): Run {
     color_hex: style.color || "#000000",
     bold,
     italic,
+    underline,
   };
+}
+
+function paragraphAlign(value: unknown): ParagraphAlign {
+  if (value === "center" || value === "right") return value;
+  return "left";
 }
 
 function paragraphFromNode(node: JSONContent, index: number): ParagraphBlock {
@@ -112,6 +164,7 @@ function paragraphFromNode(node: JSONContent, index: number): ParagraphBlock {
   return {
     id: node.attrs?.blockId || `b${index}`,
     type: node.attrs?.blockType === "split_row" ? "split_row" : "paragraph",
+    align: paragraphAlign(node.attrs?.textAlign),
     runs:
       runs.length > 0
         ? runs
@@ -123,6 +176,7 @@ function paragraphFromNode(node: JSONContent, index: number): ParagraphBlock {
               color_hex: "#000000",
               bold: false,
               italic: false,
+              underline: false,
             },
           ],
   };

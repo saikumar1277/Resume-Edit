@@ -33,7 +33,7 @@ from xml.sax.saxutils import escape
 
 import fitz  # PyMuPDF - used here to check the resulting page count
 from reportlab.lib.colors import HexColor
-from reportlab.lib.enums import TA_LEFT, TA_RIGHT
+from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import HRFlowable, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
@@ -108,9 +108,18 @@ def classify_role(block: dict, body_size: float) -> str:
     return "body"
 
 
+ALIGN = {
+    "left": TA_LEFT,
+    "center": TA_CENTER,
+    "right": TA_RIGHT,
+}
+
+
 def run_to_markup(run: dict, font_scale: float) -> str:
     text = escape(run["text"])
     size = run["size_pt"] * font_scale
+    if run.get("underline"):
+        text = f"<u>{text}</u>"
     return f'<font face="{run["font"]}" size="{size:.2f}" color="{run["color_hex"]}">{text}</font>'
 
 
@@ -163,7 +172,8 @@ def block_to_flowable(block: dict, available_width: float, font_scale: float, le
 
     split = split_left_right(block)
     if split is None:
-        return runs_to_paragraph(block.get("runs") or [], TA_LEFT, font_scale, leading_factor)
+        align = ALIGN.get(block.get("align") or "left", TA_LEFT)
+        return runs_to_paragraph(block.get("runs") or [], align, font_scale, leading_factor)
 
     left_runs, right_runs = split
     left_para = runs_to_paragraph(left_runs, TA_LEFT, font_scale, leading_factor)

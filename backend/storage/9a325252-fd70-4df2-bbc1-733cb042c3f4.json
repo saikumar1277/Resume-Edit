@@ -1,13 +1,18 @@
 {
-  "id": "b0717a37-bab0-4d52-b2cc-eaabc878ce42",
   "document": {
-    "source_file": "Sai_Kumar_Kongari_Resume_generated222.pdf",
+    "source_file": "Sai_Kumar_Kongari_Resume.pdf",
     "page_count": 1,
     "page_size_pt": {
       "width": 612.0,
       "height": 792.0
     },
-    "units": "points (1/72 inch); origin top-left, y increases downward"
+    "units": "points (1/72 inch); origin top-left, y increases downward",
+    "margins_pt": {
+      "left": 28.08,
+      "top": 19.72,
+      "right": 25.72,
+      "bottom": 18.98
+    }
   },
   "blocks": [
     {
@@ -16,7 +21,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "SAI KUMAR KONGARI ",
+          "text": "SAI KUMAR KONGARI",
           "font": "Times-Bold",
           "size_pt": 18,
           "color_hex": "#1F3864",
@@ -114,7 +119,7 @@
           "underline": false
         },
         {
-          "text": "JavaScript, TypeScript, Python, Java, SQL",
+          "text": "JavaScript, TypeScript, Python, Java, SQL, new skill",
           "font": "Times-Roman",
           "size_pt": 10.08,
           "color_hex": "#333333",
@@ -242,7 +247,7 @@
     },
     {
       "id": "b11",
-      "type": "paragraph",
+      "type": "split_row",
       "align": "left",
       "runs": [
         {
@@ -287,7 +292,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -312,7 +317,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -337,7 +342,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -362,7 +367,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -383,7 +388,7 @@
     },
     {
       "id": "b17",
-      "type": "paragraph",
+      "type": "split_row",
       "align": "left",
       "runs": [
         {
@@ -428,7 +433,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -453,7 +458,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -478,7 +483,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -499,7 +504,7 @@
     },
     {
       "id": "b22",
-      "type": "paragraph",
+      "type": "split_row",
       "align": "left",
       "runs": [
         {
@@ -544,7 +549,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -569,7 +574,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -594,7 +599,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -619,7 +624,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• Improved application reliability and code quality by implementing continuous testing, Jenkins-based CI/CD pipelines, and security scans, reducing post-deployment issues. ",
+          "text": "•Improved application reliability and code quality by implementing continuous testing, Jenkins-based CI/CD pipelines, and security scans, reducing post-deployment issues. ",
           "font": "Times-Roman",
           "size_pt": 10.08,
           "color_hex": "#000000",
@@ -676,7 +681,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -710,7 +715,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -760,7 +765,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -785,7 +790,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -835,7 +840,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 9.12,
           "color_hex": "#000000",
@@ -860,7 +865,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 9.12,
           "color_hex": "#000000",
@@ -897,7 +902,7 @@
     },
     {
       "id": "b39",
-      "type": "paragraph",
+      "type": "split_row",
       "align": "left",
       "runs": [
         {
@@ -958,7 +963,7 @@
       "align": "left",
       "runs": [
         {
-          "text": "• ",
+          "text": "•",
           "font": "Times-Roman",
           "size_pt": 11.04,
           "color_hex": "#000000",
@@ -978,6 +983,7 @@
       ]
     }
   ],
-  "updated_at": "2026-09-12T19:11:08.649338+00:00",
-  "note": "testing5"
+  "note": "amazon",
+  "id": "9a325252-fd70-4df2-bbc1-733cb042c3f4",
+  "updated_at": "2026-09-12T21:15:13.204573+00:00"
 }

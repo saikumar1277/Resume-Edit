@@ -18,6 +18,7 @@
     {
       "id": "b0",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "SAI KUMAR KONGARI",
@@ -25,13 +26,15 @@
           "size_pt": 18,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b1",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "kongarisaikumar12@gmail.com  |  +1 475 351 6754  |  linkedin.com/in/saikumar1277  |  github.com/saikumar1277",
@@ -39,13 +42,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b2",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "SUMMARY",
@@ -53,13 +58,15 @@
           "size_pt": 11.04,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b3",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "AI-focused software engineer who builds practical solutions for real-world problems",
@@ -67,7 +74,8 @@
           "size_pt": 9.12,
           "color_hex": "#000000",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": " - experienced in developing and deploying RAG-based AI tools for compliance search, interviews, and resume workflows. Skilled in using Next.js, TypeScript, Python, and OpenAI’s SDK to turn complex workflows into simple, AI-powered solutions. ",
@@ -75,13 +83,15 @@
           "size_pt": 9.12,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b4",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "TECHNICAL SKILLS",
@@ -89,35 +99,40 @@
           "size_pt": 11.04,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b5",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Languages: ",
           "font": "Times-Bold",
           "size_pt": 10.08,
-          "color_hex": "#333333",
+          "color_hex": "#0B57D0",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "JavaScript, TypeScript, Python, Java, SQL",
           "font": "Times-Roman",
           "size_pt": 10.08,
-          "color_hex": "#333333",
+          "color_hex": "#0B57D0",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b6",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Frontend: ",
@@ -125,21 +140,24 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
-          "text": "React.js, Next.js, React Native, Redux, tRPC, React Query, Tailwind CSS",
+          "text": "React.js, Next.js, React Native, Redux, tRPC, React Query, Tailwind CSS, SQL",
           "font": "Times-Roman",
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b7",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Backend & DB: ",
@@ -147,21 +165,42 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
-          "text": "Node.js, Express.js, FastAPI, Flask, Django, PostgreSQL, MongoDB, PlanetScale",
+          "text": "Node.js, Express.js, FastA",
           "font": "Times-Roman",
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
+        },
+        {
+          "text": "PI, Flas",
+          "font": "Times-Roman",
+          "size_pt": 10.08,
+          "color_hex": "#000000",
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "text": "k, Django, PostgreSQL, MongoDB, PlanetScale",
+          "font": "Times-Roman",
+          "size_pt": 10.08,
+          "color_hex": "#333333",
+          "bold": false,
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b8",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "AI / ML: ",
@@ -169,7 +208,8 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "OpenAI SDK, Agents SDK, Retrieval-Augmented Generation (RAG), Prompt Engineering",
@@ -177,13 +217,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b9",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Cloud & DevOps: ",
@@ -191,7 +233,8 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "AWS, GCP, Docker, Kubernetes, Jenkins CI/CD, Git, Linux",
@@ -199,13 +242,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b10",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "EXPERIENCE",
@@ -213,13 +258,15 @@
           "size_pt": 11.04,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b11",
       "type": "split_row",
+      "align": "left",
       "runs": [
         {
           "text": "Software Engineer Intern | Kibu                                                                                                                               ",
@@ -227,7 +274,8 @@
           "size_pt": 10.56,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Jul 2025 – Sep 2025",
@@ -235,13 +283,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b12",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Stamford, CT",
@@ -249,13 +299,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b13",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -263,7 +315,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Built Sam Bot, an AI-powered compliance assistant using RAG and natural-language search, cutting the time disability-service providers spend interpreting Medicaid waiver documents from hours to seconds.",
@@ -271,13 +324,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b14",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -285,7 +340,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Shipped Bingo and Karaoke, two interactive client-engagement features on Kibu's Create platform, using Next.js, TypeScript, tRPC, React Query, Prisma, and PostgreSQL.",
@@ -293,13 +349,31 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "type": "paragraph",
+      "align": "left",
+      "runs": [
+        {
+          "text": "skjdfh f",
+          "font": "Times-Roman",
+          "size_pt": 10.08,
+          "color_hex": "#333333",
+          "bold": false,
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b15",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -307,7 +381,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Partnered with cross-functional engineers in an Agile workflow to design, test, and deploy full-stack features, improving application performance and user experience.",
@@ -315,13 +390,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b16",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -329,7 +406,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Delivered core platform capabilities - medical record documentation, staff scheduling, RBAC, and appointment management streamlining daily operations for disability service providers.",
@@ -337,13 +415,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b17",
       "type": "split_row",
+      "align": "left",
       "runs": [
         {
           "text": "Teaching Assistant | SUNY Binghamton                                                                                                                 ",
@@ -351,7 +431,8 @@
           "size_pt": 10.56,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Jan 2025 – Dec 2025",
@@ -359,13 +440,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b18",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Binghamton, NY",
@@ -373,13 +456,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b19",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -387,7 +472,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Delivered weekly office hours and 1:1 debugging support in Python programming labs to 60+ students, improving lab completion and comprehension.",
@@ -395,13 +481,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b20",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -409,7 +497,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Automated grading pipelines with Python and Bash scripting, increasing grading efficiency by 20% across course sections.",
@@ -417,13 +506,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b21",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -431,7 +522,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Graded coding assignments using automated testing frameworks and Git-based version control workflows.",
@@ -439,13 +531,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b22",
       "type": "split_row",
+      "align": "left",
       "runs": [
         {
           "text": "Full Stack Developer | CVR College of Engineering                                                                                           ",
@@ -453,7 +547,8 @@
           "size_pt": 10.56,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Aug 2023 – May 2024",
@@ -461,13 +556,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b23",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Hyderabad, India",
@@ -475,13 +572,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b24",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -489,7 +588,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Engineered a full-stack placement management portal (React.js, Node.js, Express.js, MongoDB) used by 600+ students to track applications and job postings.",
@@ -497,13 +597,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b25",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -511,7 +613,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Built an RBAC-enabled admin dashboard managing 50+ mentor-mentee relationships, automating onboarding and session scheduling.",
@@ -519,13 +622,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b26",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -533,7 +638,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Reduced manual administrative effort by 40% by building REST APIs and automated email notification services.",
@@ -541,13 +647,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b27",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•Improved application reliability and code quality by implementing continuous testing, Jenkins-based CI/CD pipelines, and security scans, reducing post-deployment issues. ",
@@ -555,13 +663,15 @@
           "size_pt": 10.08,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b28",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "PROJECTS",
@@ -569,13 +679,15 @@
           "size_pt": 11.04,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b29",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Memic -- AI Resume Writing Assistant",
@@ -583,7 +695,8 @@
           "size_pt": 10.56,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "  |  Next.js, TypeScript, PostgreSQL, Prisma, OpenAI API",
@@ -591,13 +704,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b30",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -605,7 +720,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Developed",
@@ -613,7 +729,8 @@
           "size_pt": 10.08,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": " a context-aware AI editing engine that preserves resume structure while applying natural-language edits in real time, similar to AI-assisted coding tools like Cursor.",
@@ -621,13 +738,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b31",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -635,7 +754,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Integrated RAG and prompt-engineering techniques to generate ATS-optimized, personalized content; implemented auth, resume versioning, and PDF export.",
@@ -643,13 +763,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b32",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "InterviewIQ -- AI-Powered Mock Interview Platform",
@@ -657,7 +779,8 @@
           "size_pt": 10.56,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "  |  Next.js, TypeScript, PostgreSQL, OpenAI API",
@@ -665,13 +788,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b33",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -679,7 +804,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Engineered a real-time conversational tool combining Speech-to-Text, Text-to-Speech, and streaming LLM responses to ask context-aware follow-up questions.",
@@ -687,13 +813,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b34",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -701,7 +829,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Built a RAG-based evaluation pipeline with conversation memory, delivering personalized post-interview feedback.",
@@ -709,13 +838,15 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b35",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Job Router -- Government Job Search App",
@@ -723,7 +854,8 @@
           "size_pt": 10.56,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "  |  Ember.js, React Native, Node.js, Firebase, GCP",
@@ -731,13 +863,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b36",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -745,7 +879,8 @@
           "size_pt": 9.12,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Created Job Router, a cross-platform app helping government job seekers discover and track relevant postings in real time, with automated notifications driving a 30% lift in user engagement.",
@@ -753,13 +888,15 @@
           "size_pt": 10.08,
           "color_hex": "#262626",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b37",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -767,7 +904,8 @@
           "size_pt": 9.12,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Architected secure, scalable backend infrastructure on Google Cloud Platform, implementing JWT-based authentication and AES-256 encryption to protect user data and job-application records.",
@@ -775,13 +913,15 @@
           "size_pt": 10.08,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b38",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "EDUCATION",
@@ -789,13 +929,15 @@
           "size_pt": 11.04,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b39",
       "type": "split_row",
+      "align": "left",
       "runs": [
         {
           "text": "SUNY Binghamton --  Master of Science in Computer Science                                                                                             ",
@@ -803,7 +945,8 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "December 2026",
@@ -811,13 +954,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b40",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "Binghamton, NY",
@@ -825,13 +970,15 @@
           "size_pt": 9.12,
           "color_hex": "#555555",
           "bold": false,
-          "italic": true
+          "italic": true,
+          "underline": false
         }
       ]
     },
     {
       "id": "b41",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "ACHIEVEMENTS",
@@ -839,13 +986,15 @@
           "size_pt": 11.04,
           "color_hex": "#1F3864",
           "bold": true,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     },
     {
       "id": "b42",
       "type": "paragraph",
+      "align": "left",
       "runs": [
         {
           "text": "•",
@@ -853,7 +1002,8 @@
           "size_pt": 11.04,
           "color_hex": "#000000",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         },
         {
           "text": "Won the KMIT NFS coding competition twice (top 5 in the Computer Science department) and placed 2nd at the CodeIt Hackathon for a real-time interview-prep chat app.",
@@ -861,10 +1011,13 @@
           "size_pt": 10.08,
           "color_hex": "#333333",
           "bold": false,
-          "italic": false
+          "italic": false,
+          "underline": false
         }
       ]
     }
   ],
-  "id": "d4f7ac5e-43ab-4ade-8c1b-324cb3db1dc3"
+  "id": "d4f7ac5e-43ab-4ade-8c1b-324cb3db1dc3",
+  "updated_at": "2026-09-12T19:47:35.472211+00:00",
+  "note": "google"
 }

@@ -1,19 +1,25 @@
 """
 FastAPI app: the HTTP layer around our PDF pipeline.
 
-Four endpoints, matching the four things the UI needs to do:
-  POST /resumes              upload a PDF, get back blocks JSON
-  GET  /resumes/{id}         load that JSON for the editor
-  PUT  /resumes/{id}         save editor changes
-  GET  /resumes/{id}/download  turn current JSON back into a PDF
+The HTTP surface, matching what the UI needs to do:
+  GET    /resumes              list/search saved resumes by note
+  POST   /resumes              upload a PDF, get back blocks JSON
+  GET    /resumes/{id}         load that JSON for the editor
+  PUT    /resumes/{id}         save editor changes
+  DELETE /resumes/{id}         drop a saved resume
+  POST   /resumes/{id}/snapshot  copy current blocks + note to a new resume
+  POST   /resumes/{id}/chat      ask the assistant for edits to those blocks
+  GET    /resumes/{id}/download  turn current JSON back into a PDF
 """
+
+from typing import Literal
 
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 from pydantic import BaseModel
 
-from . import json_store
+from . import ai, json_store
 from .pipeline import ConvertError, convert_pdf, fit_to_one_page
 
 app = FastAPI(title="Resume Editor API")
@@ -31,6 +37,22 @@ app.add_middleware(
 
 class ResumeUpdate(BaseModel):
     blocks: list[dict]
+    note: str | None = None
+
+
+class ChatMessage(BaseModel):
+    role: Literal["user", "assistant"]
+    content: str
+
+
+class ChatRequest(BaseModel):
+    blocks: list[dict]
+    messages: list[ChatMessage]
+
+
+@app.get("/resumes")
+def list_resumes(q: str = ""):
+    return json_store.search(q)
 
 
 @app.post("/resumes")
@@ -58,10 +80,47 @@ def get_resume(resume_id: str):
 
 @app.put("/resumes/{resume_id}")
 def save_resume(resume_id: str, body: ResumeUpdate):
-    updated = json_store.update(resume_id, {"blocks": body.blocks})
+    payload = {"blocks": body.blocks}
+    if body.note is not None:
+        payload["note"] = body.note
+    updated = json_store.update(resume_id, payload)
     if updated is None:
         raise HTTPException(status_code=404, detail="Resume not found.")
     return updated
+
+
+@app.delete("/resumes/{resume_id}")
+def remove_resume(resume_id: str):
+    if not json_store.delete(resume_id):
+        raise HTTPException(status_code=404, detail="Resume not found.")
+    return {"deleted": resume_id}
+
+
+@app.post("/resumes/{resume_id}/snapshot")
+def snapshot_resume(resume_id: str, body: ResumeUpdate):
+    source = json_store.load(resume_id)
+    if source is None:
+        raise HTTPException(status_code=404, detail="Resume not found.")
+
+    snapshot = {
+        "document": source.get("document"),
+        "blocks": body.blocks,
+        "note": body.note,
+    }
+    return json_store.save_new(snapshot)
+
+
+@app.post("/resumes/{resume_id}/chat")
+def chat_about_resume(resume_id: str, body: ChatRequest):
+    if json_store.load(resume_id) is None:
+        raise HTTPException(status_code=404, detail="Resume not found.")
+
+    # Blocks come from the request, not from disk, so the assistant sees
+    # what is on screen right now including unsaved edits.
+    try:
+        return ai.chat(body.blocks, [m.model_dump() for m in body.messages])
+    except ai.AiError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
 
 
 @app.get("/resumes/{resume_id}/download")
