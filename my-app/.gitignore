@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Next.js rewrites these locally; they are not part of the app.
+AGENTS.md
+CLAUDE.md
