@@ -1,0 +1,169 @@
+Resume Editor — Architecture, Flow, and Features
+================================================
+
+This app lets you upload a resume PDF, edit it in the browser with original
+styling, get AI rewrite suggestions, and download a one-page PDF.
+
+
+1. Architecture
+---------------
+
+Two processes. The browser never talks to OpenAI or the filesystem directly.
+
+  Browser  -->  Next.js (:3000)  --/api/* rewrite-->  FastAPI (:8000)
+                                                         |
+                         +-------------------------------+
+                         |               |               |
+                    JSON store       OpenAI         PyMuPDF +
+                  backend/storage                  ReportLab
+
+  my-app/              Next.js 16, React 19, TipTap, Tailwind
+                       Pages, editor canvas, toolbar, chat UI
+
+  backend/             FastAPI, PyMuPDF, ReportLab, OpenAI
+                       Convert, save, chat, PDF download
+
+  backend/storage/     One .json file per resume
+                       Stand-in for a database
+
+  /api/* on Next.js rewrites to http://127.0.0.1:8000/*
+  CORS also allows http://localhost:3000
+
+
+2. Data model
+-------------
+
+A resume is not HTML. It is JSON:
+
+  Resume
+    id, note, updated_at
+    document
+      source_file
+      page_count
+      page_size_pt          width, height
+      margins_pt            left, right, top, bottom
+    blocks[]
+      paragraph | split_row
+        id                  e.g. b12
+        align               left | center | right
+        runs[]
+          text, font, size_pt, color_hex, bold, italic, underline
+      divider
+        id
+        width_pt, color_hex
+
+The block id is the shared handle for save, download, and the assistant.
+Fonts snap to ReportLab's 14 standard fonts (Times / Helvetica / Courier)
+from bold/italic/serif flags, not the PDF's embedded font names.
+
+
+3. Flow
+-------
+
+Upload
+  Sidebar -> POST /resumes
+  PDF bytes
+    -> pdf_to_json.py      text spans + divider lines (PyMuPDF)
+    -> raw_to_blocks.py    spans -> paragraphs (wrap vs new line)
+    -> convert.py          measure margins, insert dividers, assign ids
+    -> json_store.py       write storage/{id}.json
+  Redirect to /editor/{id}
+
+Edit
+  GET /resumes/{id}
+  blocksToTiptap() loads TipTap on a page-sized canvas
+  Toolbar: undo/redo, font, size, color, bold/italic/underline, align
+  Save: tiptapToBlocks() -> PUT /resumes/{id}
+
+Assistant
+  Chat sends on-screen blocks (including unsaved edits) plus messages
+  POST /resumes/{id}/chat
+    -> render each block as "[b12] line text"
+    -> OpenAI structured reply { reply, edits[] }
+    -> Accept / Reject cards in the chat panel
+    -> Accept applies replace or insert_after on that block id
+  The model never writes to disk.
+
+Download
+  Note modal (search key for later)
+  POST /resumes/{id}/snapshot     copy; does not overwrite the live editor
+  GET  /resumes/{snapshot}/download
+  blocks_to_pdf.py fits content to one page
+    (tighten spacing first, shrink fonts only down to 85%)
+
+Find later
+  Sidebar search is by the note typed at download, not by filename.
+
+
+4. API
+------
+
+  GET    /resumes                    list / search by note
+  POST   /resumes                    upload PDF -> blocks JSON
+  GET    /resumes/{id}               load for the editor
+  PUT    /resumes/{id}               save blocks + optional note
+  DELETE /resumes/{id}               delete
+  POST   /resumes/{id}/snapshot      copy current content to a new resume
+  POST   /resumes/{id}/chat          assistant suggestions
+  GET    /resumes/{id}/download      blocks -> PDF
+
+
+5. Features
+-----------
+
+Library
+  - Upload PDF only
+  - Search, open, and delete saved resumes
+  - Note is the key used to find a download later
+
+Editor
+  - Page-accurate canvas (original point size and margins)
+  - Styled runs: font, size, color, bold, italic, underline
+  - Section underlines as non-editable divider blocks
+  - Save, undo, redo
+
+Assistant
+  - Chat panel with starter prompts
+  - Per-line Accept / Reject
+  - ATS writing rules in the system prompt:
+      no invented metrics, employers, dates, or tools
+      [QUANTIFY: ...] when a number is missing
+      [VERIFY: ...] when input is ambiguous
+      JD terminology only when the resume supports it
+  - User can paste a job description in the chat
+
+Export
+  - Snapshot so download never overwrites the working copy
+  - Auto-fit to one page
+
+
+6. Limits
+---------
+
+  - Single-column layouts only
+  - Fonts are Times / Helvetica / Courier, not original embedded faces
+  - Persistence is local JSON files, not Postgres
+  - No dedicated job-description field
+  - Chat reply is { reply, edits } — no match-score card in the live app
+
+
+7. Key files
+------------
+
+  backend/app/main.py                 HTTP routes
+  backend/app/json_store.py           file store
+  backend/app/ai.py                   assistant prompt + OpenAI call
+  backend/app/pipeline/pdf_to_json.py
+  backend/app/pipeline/raw_to_blocks.py
+  backend/app/pipeline/convert.py
+  backend/app/pipeline/blocks_to_pdf.py
+
+  my-app/app/page.tsx                 home
+  my-app/app/Sidebar.tsx              upload + search
+  my-app/app/editor/[id]/Editor.tsx   canvas, save, download, applyEdit
+  my-app/app/editor/[id]/Toolbar.tsx
+  my-app/app/editor/[id]/ChatPanel.tsx
+  my-app/lib/api.ts
+  my-app/lib/types.ts
+  my-app/lib/tiptapDoc.ts             blocks <-> TipTap
+  my-app/next.config.ts               /api proxy

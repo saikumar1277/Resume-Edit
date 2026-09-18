@@ -119,7 +119,7 @@
           "underline": false
         },
         {
-          "text": "JavaScript, TypeScript, Python, Java, SQL, new skill",
+          "text": "JavaScript, TypeScript, updated",
           "font": "Times-Roman",
           "size_pt": 10.08,
           "color_hex": "#333333",
@@ -983,7 +983,7 @@
       ]
     }
   ],
-  "note": "amazon",
-  "id": "9a325252-fd70-4df2-bbc1-733cb042c3f4",
-  "updated_at": "2026-09-12T21:15:13.204573+00:00"
+  "note": "this is the new resume for amazon",
+  "id": "960b0981-8da2-45a8-9e65-122082c88da1",
+  "updated_at": "2026-09-16T16:38:15.895429+00:00"
 }

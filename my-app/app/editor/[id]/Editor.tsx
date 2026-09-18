@@ -8,7 +8,18 @@ import { FontSize, TextStyle } from "@tiptap/extension-text-style";
 import Underline from "@tiptap/extension-underline";
 import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
-import Sidebar from "../../Sidebar";
+import { toast } from "sonner";
+import { AppShell } from "@/components/app-shell";
+import { Button } from "@/components/ui/button";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
 import {
   downloadPdf,
   getResume,
@@ -53,7 +64,6 @@ export default function Editor({ resumeId }: { resumeId: string }) {
   const [resume, setResume] = useState<Resume | null>(null);
   const [error, setError] = useState("");
   const [status, setStatus] = useState("");
-  const [menuOpen, setMenuOpen] = useState(false);
   const [noteOpen, setNoteOpen] = useState(false);
   const [noteDraft, setNoteDraft] = useState("");
 
@@ -170,8 +180,11 @@ export default function Editor({ resumeId }: { resumeId: string }) {
     try {
       await persist();
       setStatus("Saved.");
+      toast.success("Resume saved");
     } catch (err) {
-      setStatus(err instanceof Error ? err.message : "Save failed.");
+      const message = err instanceof Error ? err.message : "Save failed.";
+      setStatus(message);
+      toast.error(message);
     }
   }
 
@@ -195,50 +208,29 @@ export default function Editor({ resumeId }: { resumeId: string }) {
         snapshot.document.source_file || "resume.pdf",
       );
       setStatus("Downloaded.");
+      toast.success("PDF downloaded");
     } catch (err) {
-      setStatus(err instanceof Error ? err.message : "Download failed.");
+      const message = err instanceof Error ? err.message : "Download failed.";
+      setStatus(message);
+      toast.error(message);
     }
   }
 
   if (error) {
     return (
-      <div className="app-frame">
-        <div className="editor-shell">
-          <header className="no-print doc-toolbar">
-            <div className="doc-toolbar-row">
-              <Toolbar
-                editor={null}
-                menuOpen={menuOpen}
-                onMenuClick={() => setMenuOpen((value) => !value)}
-              />
-              <Sidebar open={menuOpen} onClose={() => setMenuOpen(false)} />
-            </div>
-          </header>
-          <main className="px-6 py-16">
-            <p className="text-red-600">{error}</p>
-          </main>
-        </div>
-      </div>
+      <AppShell active="resumes">
+        <main className="px-6 py-16">
+          <p className="text-destructive">{error}</p>
+        </main>
+      </AppShell>
     );
   }
 
   if (!resume) {
     return (
-      <div className="app-frame">
-        <div className="editor-shell">
-          <header className="no-print doc-toolbar">
-            <div className="doc-toolbar-row">
-              <Toolbar
-                editor={null}
-                menuOpen={menuOpen}
-                onMenuClick={() => setMenuOpen((value) => !value)}
-              />
-              <Sidebar open={menuOpen} onClose={() => setMenuOpen(false)} />
-            </div>
-          </header>
-          <p className="px-6 py-16 text-sm">Loading…</p>
-        </div>
-      </div>
+      <AppShell active="resumes">
+        <p className="px-6 py-16 text-sm text-muted-foreground">Loading…</p>
+      </AppShell>
     );
   }
 
@@ -251,86 +243,71 @@ export default function Editor({ resumeId }: { resumeId: string }) {
   };
 
   return (
-    <div className="app-frame">
-      <div className="editor-shell">
-        <header className="no-print doc-toolbar">
-          <div className="doc-toolbar-row">
-            <Toolbar
-              editor={editor}
-              menuOpen={menuOpen}
-              onMenuClick={() => setMenuOpen((value) => !value)}
-            />
-            <div className="doc-toolbar-actions">
-              <span className="doc-toolbar-status">{status}</span>
-              <button
-                type="button"
-                onClick={onSave}
-                className="doc-action doc-action-primary"
-              >
-                Save
-              </button>
-              <button type="button" onClick={onDownload} className="doc-action">
-                Download PDF
-              </button>
-            </div>
-            <Sidebar
-              open={menuOpen}
-              onClose={() => setMenuOpen(false)}
-              fileName={resume.document.source_file}
-              currentId={resume.id}
-            />
-          </div>
-        </header>
-
-        <div
-          className="resume-canvas"
-          style={{
-            width: `${width}pt`,
-            minHeight: `${height}pt`,
-            padding: `${margins.top}pt ${margins.right}pt ${margins.bottom}pt ${margins.left}pt`,
-          }}
-        >
-          <EditorContent editor={editor} />
-        </div>
+    <AppShell
+      active="resumes"
+      status={status}
+      fileName={resume.document.source_file}
+      currentId={resume.id}
+      tools={<Toolbar editor={editor} />}
+      actions={
+        <>
+          <Button type="button" onClick={onSave}>
+            Save
+          </Button>
+          <Button type="button" variant="outline" onClick={onDownload}>
+            Download PDF
+          </Button>
+        </>
+      }
+      aside={
+        <ChatPanel
+          resumeId={resume.id}
+          getBlocks={currentBlocks}
+          getBlockText={blockText}
+          onApplyEdit={applyEdit}
+        />
+      }
+    >
+      <div
+        className="resume-canvas"
+        style={{
+          width: `${width}pt`,
+          minHeight: `${height}pt`,
+          padding: `${margins.top}pt ${margins.right}pt ${margins.bottom}pt ${margins.left}pt`,
+        }}
+      >
+        <EditorContent editor={editor} />
       </div>
 
-      <ChatPanel
-        resumeId={resume.id}
-        getBlocks={currentBlocks}
-        getBlockText={blockText}
-        onApplyEdit={applyEdit}
-      />
-
-      {noteOpen ? (
-        <div className="note-modal-backdrop">
-          <form className="note-modal" onSubmit={confirmDownload}>
-            <h2 className="note-modal-title">Add a note</h2>
-            <p className="note-modal-help">
-              This note is the key you will use in the sidebar search to find
-              this resume later.
-            </p>
-            <input
-              className="note-modal-input"
+      <Dialog open={noteOpen} onOpenChange={setNoteOpen}>
+        <DialogContent>
+          <form onSubmit={confirmDownload} className="grid gap-4">
+            <DialogHeader>
+              <DialogTitle>Add a note</DialogTitle>
+              <DialogDescription>
+                This note is the key you will use in the menu search to find
+                this resume later.
+              </DialogDescription>
+            </DialogHeader>
+            <Input
               value={noteDraft}
               onChange={(event) => setNoteDraft(event.target.value)}
               placeholder="e.g. google-interview"
               autoFocus
             />
-            <div className="note-modal-actions">
-              <button
+            <DialogFooter>
+              <Button
                 type="button"
-                className="doc-action"
+                variant="outline"
                 onClick={() => setNoteOpen(false)}
               >
                 Cancel
-              </button>
-              <button type="submit" className="doc-action doc-action-primary">
-                Download
-              </button>
-            </div>
+              </Button>
+              <Button type="submit">Download</Button>
+            </DialogFooter>
           </form>
-        </div>
-      ) : null}
-    </div>
+        </DialogContent>
+      </Dialog>
+    </AppShell>
   );
 }

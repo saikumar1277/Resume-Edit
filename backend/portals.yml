@@ -1,0 +1,23 @@
+# Public, no-auth job sources. Same idea as career-ops portals.yml:
+# job_boards are aggregators, tracked_companies are employer ATS pages.
+# HTTPS JSON only — no HTML scrape, no login.
+
+job_boards:
+  - name: Remotive
+    provider: remotive
+  - name: RemoteOK
+    provider: remoteok
+
+tracked_companies:
+  - name: Stripe
+    careers_url: https://boards.greenhouse.io/stripe
+  - name: GitLab
+    careers_url: https://boards.greenhouse.io/gitlab
+  - name: Discord
+    careers_url: https://boards.greenhouse.io/discord
+  - name: Notion
+    careers_url: https://jobs.ashbyhq.com/notion
+  - name: Palantir
+    careers_url: https://jobs.lever.co/palantir
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify

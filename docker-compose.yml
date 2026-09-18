@@ -1,0 +1,100 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: pageone
+      POSTGRES_PASSWORD: pageone
+      POSTGRES_DB: pageone
+    ports:
+      # 5433 on the host avoids colliding with a local Postgres on 5432.
+      - "5433:5432"
+    volumes:
+      - pageone_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pageone -d pageone"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  api:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      APP_ENV: development
+      DATABASE_URL: postgresql+psycopg://pageone:pageone@postgres:5432/pageone
+      REDIS_URL: redis://redis:6379/0
+      SECRET_KEY: compose-dev-secret-not-for-prod
+      CORS_ORIGINS: http://localhost:3000
+      COOKIE_SECURE: "0"
+      JOBS_SWEEP_DISABLE: "1"
+      APP_PUBLIC_URL: http://localhost:3000
+      RUN_MIGRATIONS: "1"
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+      RESEND_API_KEY: ${RESEND_API_KEY:-}
+      EMAIL_FROM: ${EMAIL_FROM:-Page one <noreply@localhost>}
+      GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
+      GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')",
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+
+  worker:
+    build: ./backend
+    command: ["python", "-m", "app.jobs.worker"]
+    environment:
+      APP_ENV: development
+      DATABASE_URL: postgresql+psycopg://pageone:pageone@postgres:5432/pageone
+      REDIS_URL: redis://redis:6379/0
+      SECRET_KEY: compose-dev-secret-not-for-prod
+      COOKIE_SECURE: "0"
+      APP_PUBLIC_URL: http://localhost:3000
+      RUN_MIGRATIONS: "0"
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+
+  web:
+    build:
+      context: ./my-app
+      args:
+        BACKEND_URL: http://api:8000
+    ports:
+      - "3000:3000"
+    environment:
+      PORT: "3000"
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  pageone_pgdata:

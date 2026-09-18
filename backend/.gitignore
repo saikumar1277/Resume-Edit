@@ -1,2 +1,8 @@
 .env
 __pycache__/
+storage/jobs.db
+storage/jobs.db-wal
+storage/jobs.db-shm
+storage/jobs.sweep.lock
+.venv/
+.pytest_cache/
